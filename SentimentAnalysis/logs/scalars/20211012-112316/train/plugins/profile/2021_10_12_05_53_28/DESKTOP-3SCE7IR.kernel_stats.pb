@@ -1,0 +1,1904 @@
+
+¡
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8Ωﬂˆ@ΩﬂˆHΩﬂˆXb@model/bert/encoder/layer_._9/intermediate/dense/Tensordot/MatMulh
+¡
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ñ¿∫@ñ¿∫Hñ¿∫Xb@model/bert/encoder/layer_._8/intermediate/dense/Tensordot/MatMulh
+¡
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ñËπ@ñËπHñËπXb@model/bert/encoder/layer_._1/intermediate/dense/Tensordot/MatMulh
+¡
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ñËπ@ñËπHñËπXb@model/bert/encoder/layer_._4/intermediate/dense/Tensordot/MatMulh
+¬
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ñÿπ@ñÿπHñÿπXbAmodel/bert/encoder/layer_._10/intermediate/dense/Tensordot/MatMulh
+¬
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ñÿπ@ñÿπHñÿπXbAmodel/bert/encoder/layer_._11/intermediate/dense/Tensordot/MatMulh
+¡
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ñÿπ@ñÿπHñÿπXb@model/bert/encoder/layer_._5/intermediate/dense/Tensordot/MatMulh
+¡
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ñÿπ@ñÿπHñÿπXb@model/bert/encoder/layer_._6/intermediate/dense/Tensordot/MatMulh
+¡
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ñ–π@ñ–πHñ–πXb@model/bert/encoder/layer_._3/intermediate/dense/Tensordot/MatMulh
+¡
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ñ»π@ñ»πHñ»πXb@model/bert/encoder/layer_._2/intermediate/dense/Tensordot/MatMulh
+¡
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ˆøπ@ˆøπHˆøπXb@model/bert/encoder/layer_._0/intermediate/dense/Tensordot/MatMulh
+¡
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ñ∞π@ñ∞πHñ∞πXb@model/bert/encoder/layer_._7/intermediate/dense/Tensordot/MatMulh
+ª
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ï»≥@ï»≥Hï»≥Xb:model/bert/encoder/layer_._9/output/dense/Tensordot/MatMulh
+º
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ï®≥@ï®≥Hï®≥Xb;model/bert/encoder/layer_._11/output/dense/Tensordot/MatMulh
+ª
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ï†≥@ï†≥Hï†≥Xb:model/bert/encoder/layer_._2/output/dense/Tensordot/MatMulh
+ª
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ï†≥@ï†≥Hï†≥Xb:model/bert/encoder/layer_._8/output/dense/Tensordot/MatMulh
+º
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ñò≥@ñò≥Hñò≥Xb;model/bert/encoder/layer_._10/output/dense/Tensordot/MatMulh
+ª
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ñò≥@ñò≥Hñò≥Xb:model/bert/encoder/layer_._4/output/dense/Tensordot/MatMulh
+ª
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ñò≥@ñò≥Hñò≥Xb:model/bert/encoder/layer_._6/output/dense/Tensordot/MatMulh
+ª
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ïò≥@ïò≥Hïò≥Xb:model/bert/encoder/layer_._3/output/dense/Tensordot/MatMulh
+ª
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ïò≥@ïò≥Hïò≥Xb:model/bert/encoder/layer_._5/output/dense/Tensordot/MatMulh
+ª
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ñê≥@ñê≥Hñê≥Xb:model/bert/encoder/layer_._1/output/dense/Tensordot/MatMulh
+ª
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ïê≥@ïê≥Hïê≥Xb:model/bert/encoder/layer_._0/output/dense/Tensordot/MatMulh
+ª
+W_ZN7cutlass6KernelI52cutlass_80_tensorop_s1688gemm_128x128_16x5_nn_align4EEvNT_6ParamsEÏ ÄÄ*Ä2Ä8ïÄ≥@ïÄ≥HïÄ≥Xb:model/bert/encoder/layer_._7/output/dense/Tensordot/MatMulh
+Ñ
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8é®s@é®sHé®sXbDmodel/bert/encoder/layer_._9/attention/output/dense/Tensordot/MatMulhuMUB
+w
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2ÄÄ8éËq@éËqHéËqb/model/bert/encoder/layer_._9/attention/self/AddhuZUÖB
+w
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2ÄÄ8ç»p@ç»pHç»pb/model/bert/encoder/layer_._2/attention/self/AddhuZUÖB
+â
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8ç»p@ç»pHç»pbDmodel/bert/encoder/layer_._9/attention/self/dropout_28/dropout/Mul_1huZUÖB
+w
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2ÄÄ8ç¿p@ç¿pHç¿pb/model/bert/encoder/layer_._7/attention/self/AddhuZUÖB
+w
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2ÄÄ8ç¿p@ç¿pHç¿pb/model/bert/encoder/layer_._8/attention/self/AddhuZUÖB
+ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8é∏p@é∏pHé∏pbEmodel/bert/encoder/layer_._10/attention/self/dropout_31/dropout/Mul_1huZUÖB
+w
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2ÄÄ8ç∏p@ç∏pHç∏pb/model/bert/encoder/layer_._0/attention/self/AddhuZUÖB
+x
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2ÄÄ8é∞p@é∞pHé∞pb0model/bert/encoder/layer_._10/attention/self/AddhuZUÖB
+w
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2ÄÄ8é∞p@é∞pHé∞pb/model/bert/encoder/layer_._4/attention/self/AddhuZUÖB
+w
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2ÄÄ8ç∞p@ç∞pHç∞pb/model/bert/encoder/layer_._5/attention/self/AddhuZUÖB
+w
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2ÄÄ8ç∞p@ç∞pHç∞pb/model/bert/encoder/layer_._6/attention/self/AddhuZUÖB
+à
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8ç∞p@ç∞pHç∞pbCmodel/bert/encoder/layer_._1/attention/self/dropout_4/dropout/Mul_1huZUÖB
+â
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8ç∞p@ç∞pHç∞pbDmodel/bert/encoder/layer_._7/attention/self/dropout_22/dropout/Mul_1huZUÖB
+w
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2ÄÄ8ç®p@ç®pHç®pb/model/bert/encoder/layer_._1/attention/self/AddhuZUÖB
+x
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2ÄÄ8ç®p@ç®pHç®pb0model/bert/encoder/layer_._11/attention/self/AddhuZUÖB
+w
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2ÄÄ8ç®p@ç®pHç®pb/model/bert/encoder/layer_._3/attention/self/AddhuZUÖB
+â
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8ç»o@ç»oHç»obDmodel/bert/encoder/layer_._8/attention/self/dropout_25/dropout/Mul_1huZUÖB
+à
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8çÿm@çÿmHçÿmbCmodel/bert/encoder/layer_._0/attention/self/dropout_1/dropout/Mul_1huZUÖB
+à
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8çÿm@çÿmHçÿmbCmodel/bert/encoder/layer_._2/attention/self/dropout_7/dropout/Mul_1huZUÖB
+â
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8Õ◊m@Õ◊mHÕ◊mbDmodel/bert/encoder/layer_._5/attention/self/dropout_16/dropout/Mul_1huZUÖB
+ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8ç–m@ç–mHç–mbEmodel/bert/encoder/layer_._11/attention/self/dropout_34/dropout/Mul_1huZUÖB
+â
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8ç–m@ç–mHç–mbDmodel/bert/encoder/layer_._3/attention/self/dropout_10/dropout/Mul_1huZUÖB
+â
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8ç–m@ç–mHç–mbDmodel/bert/encoder/layer_._4/attention/self/dropout_13/dropout/Mul_1huZUÖB
+â
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8ç–m@ç–mHç–mbDmodel/bert/encoder/layer_._6/attention/self/dropout_19/dropout/Mul_1huZUÖB
+≠
+U_ZN7cutlass6KernelI50cutlass_80_tensorop_s1688gemm_64x64_32x4_nn_align4EEvNT_6ParamsE¢ ÄÄ*@2¿8ç®m@ç®mHç®mb4model/bert/encoder/layer_._8/attention/self/MatMul_1h
+Ä
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8çòk@çòkHçòkXb@model/bert/encoder/layer_._8/attention/self/key/Tensordot/MatMulhuMUB
+≠
+U_ZN7cutlass6KernelI50cutlass_80_tensorop_s1688gemm_64x64_32x4_nn_align4EEvNT_6ParamsE¢ ÄÄ*@2¿8çêj@çêjHçêjb4model/bert/encoder/layer_._9/attention/self/MatMul_1h
+‚
+á_ZN10tensorflow65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739222GenerateNormalizedProbIffLi4EEEvPKT_PKT0_S4_PS2_iib *Ä2ÄÄ8äT@äTHäTb4model/bert/encoder/layer_._11/attention/self/Softmaxhu  »B
+·
+á_ZN10tensorflow65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739222GenerateNormalizedProbIffLi4EEEvPKT_PKT0_S4_PS2_iib *Ä2ÄÄ8äËT@äËTHäËTb3model/bert/encoder/layer_._9/attention/self/Softmaxhu  »B
+·
+á_ZN10tensorflow65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739222GenerateNormalizedProbIffLi4EEEvPKT_PKT0_S4_PS2_iib *Ä2ÄÄ8ä‡T@ä‡THä‡Tb3model/bert/encoder/layer_._8/attention/self/Softmaxhu  »B
+·
+á_ZN10tensorflow65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739222GenerateNormalizedProbIffLi4EEEvPKT_PKT0_S4_PS2_iib *Ä2ÄÄ8ä»T@ä»THä»Tb3model/bert/encoder/layer_._1/attention/self/Softmaxhu  »B
+·
+á_ZN10tensorflow65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739222GenerateNormalizedProbIffLi4EEEvPKT_PKT0_S4_PS2_iib *Ä2ÄÄ8ä¿T@ä¿THä¿Tb3model/bert/encoder/layer_._3/attention/self/Softmaxhu  »B
+·
+á_ZN10tensorflow65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739222GenerateNormalizedProbIffLi4EEEvPKT_PKT0_S4_PS2_iib *Ä2ÄÄ8ä¿T@ä¿THä¿Tb3model/bert/encoder/layer_._4/attention/self/Softmaxhu  »B
+·
+á_ZN10tensorflow65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739222GenerateNormalizedProbIffLi4EEEvPKT_PKT0_S4_PS2_iib *Ä2ÄÄ8ä¿T@ä¿THä¿Tb3model/bert/encoder/layer_._7/attention/self/Softmaxhu  »B
+‚
+á_ZN10tensorflow65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739222GenerateNormalizedProbIffLi4EEEvPKT_PKT0_S4_PS2_iib *Ä2ÄÄ8ä∏T@ä∏THä∏Tb4model/bert/encoder/layer_._10/attention/self/Softmaxhu  »B
+·
+á_ZN10tensorflow65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739222GenerateNormalizedProbIffLi4EEEvPKT_PKT0_S4_PS2_iib *Ä2ÄÄ8ä∏T@ä∏THä∏Tb3model/bert/encoder/layer_._6/attention/self/Softmaxhu  »B
+·
+á_ZN10tensorflow65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739222GenerateNormalizedProbIffLi4EEEvPKT_PKT0_S4_PS2_iib *Ä2ÄÄ8ä∞T@ä∞THä∞Tb3model/bert/encoder/layer_._5/attention/self/Softmaxhu  »B
+·
+á_ZN10tensorflow65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739222GenerateNormalizedProbIffLi4EEEvPKT_PKT0_S4_PS2_iib *Ä2ÄÄ8ä†T@ä†THä†Tb3model/bert/encoder/layer_._0/attention/self/Softmaxhu  »B
+·
+á_ZN10tensorflow65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739222GenerateNormalizedProbIffLi4EEEvPKT_PKT0_S4_PS2_iib *Ä2ÄÄ8ä¯S@ä¯SHä¯Sb3model/bert/encoder/layer_._2/attention/self/Softmaxhu  »B
+á
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8âòM@âòMHâòMbBmodel/bert/encoder/layer_._6/attention/self/dropout_19/dropout/MulhuZUÖB
+x
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8ÈóM@ÈóMHÈóMb3model/bert/encoder/layer_._5/attention/self/truedivhuZUÖB
+ì
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8â‡J@â‡JHâ‡JbZmodel/bert/encoder/layer_._2/attention/self/dropout_7/dropout/random_uniform/RandomUniformhuZUÖB
+x
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8âàJ@âàJHâàJb3model/bert/encoder/layer_._9/attention/self/truedivhuZUÖB
+à
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8â¯I@â¯IHâ¯IbCmodel/bert/encoder/layer_._11/attention/self/dropout_34/dropout/MulhuZUÖB
+à
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8âI@âIHâIbCmodel/bert/encoder/layer_._10/attention/self/dropout_31/dropout/MulhuZUÖB
+x
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8âI@âIHâIb3model/bert/encoder/layer_._2/attention/self/truedivhuZUÖB
+x
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8âI@âIHâIb3model/bert/encoder/layer_._6/attention/self/truedivhuZUÖB
+x
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8âI@âIHâIb3model/bert/encoder/layer_._7/attention/self/truedivhuZUÖB
+x
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8àI@àIHàIb3model/bert/encoder/layer_._1/attention/self/truedivhuZUÖB
+y
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8àI@àIHàIb4model/bert/encoder/layer_._11/attention/self/truedivhuZUÖB
+á
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8àI@àIHàIbBmodel/bert/encoder/layer_._3/attention/self/dropout_10/dropout/MulhuZUÖB
+y
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8ÈÔI@ÈÔIHÈÔIb4model/bert/encoder/layer_._10/attention/self/truedivhuZUÖB
+á
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8©ÔI@©ÔIH©ÔIbBmodel/bert/encoder/layer_._9/attention/self/dropout_28/dropout/MulhuZUÖB
+Ü
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8âËI@âËIHâËIbAmodel/bert/encoder/layer_._0/attention/self/dropout_1/dropout/MulhuZUÖB
+x
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8âËI@âËIHâËIb3model/bert/encoder/layer_._0/attention/self/truedivhuZUÖB
+x
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8âËI@âËIHâËIb3model/bert/encoder/layer_._3/attention/self/truedivhuZUÖB
+á
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8âËI@âËIHâËIbBmodel/bert/encoder/layer_._4/attention/self/dropout_13/dropout/MulhuZUÖB
+á
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8âËI@âËIHâËIbBmodel/bert/encoder/layer_._5/attention/self/dropout_16/dropout/MulhuZUÖB
+á
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8âËI@âËIHâËIbBmodel/bert/encoder/layer_._7/attention/self/dropout_22/dropout/MulhuZUÖB
+á
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8âËI@âËIHâËIbBmodel/bert/encoder/layer_._8/attention/self/dropout_25/dropout/MulhuZUÖB
+x
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8âËI@âËIHâËIb3model/bert/encoder/layer_._8/attention/self/truedivhuZUÖB
+Ü
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8àËI@àËIHàËIbAmodel/bert/encoder/layer_._1/attention/self/dropout_4/dropout/MulhuZUÖB
+x
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8àËI@àËIHàËIb3model/bert/encoder/layer_._4/attention/self/truedivhuZUÖB
+Ü
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä`8à‡I@à‡IHà‡IbAmodel/bert/encoder/layer_._2/attention/self/dropout_7/dropout/MulhuZUÖB
+y
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08âêI@âêIHâêIb2model/bert/encoder/layer_._8/intermediate/Gelu/addhuZUÖB
+Å
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8àÿH@àÿHHàÿHXbAmodel/bert/encoder/layer_._10/attention/self/key/Tensordot/MatMulhuMUB
+Ç
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8à–H@à–HHà–HXbBmodel/bert/encoder/layer_._4/attention/self/query/Tensordot/MatMulhuMUB
+Ç
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8ËœH@ËœHHËœHXbBmodel/bert/encoder/layer_._9/attention/self/query/Tensordot/MatMulhuMUB
+Ç
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8…œH@…œHH…œHXbBmodel/bert/encoder/layer_._7/attention/self/query/Tensordot/MatMulhuMUB
+Å
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8â»H@â»HHâ»HXbAmodel/bert/encoder/layer_._11/attention/self/key/Tensordot/MatMulhuMUB
+Ç
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8â»H@â»HHâ»HXbBmodel/bert/encoder/layer_._3/attention/self/query/Tensordot/MatMulhuMUB
+Ç
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8â»H@â»HHâ»HXbBmodel/bert/encoder/layer_._5/attention/self/query/Tensordot/MatMulhuMUB
+Ç
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8à¿H@à¿HHà¿HXbBmodel/bert/encoder/layer_._0/attention/self/query/Tensordot/MatMulhuMUB
+Ç
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8â∏H@â∏HHâ∏HXbBmodel/bert/encoder/layer_._1/attention/self/query/Tensordot/MatMulhuMUB
+Ç
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8â∏H@â∏HHâ∏HXbBmodel/bert/encoder/layer_._8/attention/self/value/Tensordot/MatMulhuMUB
+Ç
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8à∏H@à∏HHà∏HXbBmodel/bert/encoder/layer_._2/attention/self/query/Tensordot/MatMulhuMUB
+Ç
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8à∏H@à∏HHà∏HXbBmodel/bert/encoder/layer_._6/attention/self/query/Tensordot/MatMulhuMUB
+Ç
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8à∞H@à∞HHà∞HXbBmodel/bert/encoder/layer_._9/attention/self/value/Tensordot/MatMulhuMUB
+É
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8à®H@à®HHà®HXbCmodel/bert/encoder/layer_._11/attention/self/value/Tensordot/MatMulhuMUB
+Ç
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8à®H@à®HHà®HXbBmodel/bert/encoder/layer_._7/attention/self/value/Tensordot/MatMulhuMUB
+É
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8ÈßH@ÈßHHÈßHXbCmodel/bert/encoder/layer_._10/attention/self/value/Tensordot/MatMulhuMUB
+Ç
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8â†H@â†HHâ†HXbBmodel/bert/encoder/layer_._0/attention/self/value/Tensordot/MatMulhuMUB
+Ç
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8â†H@â†HHâ†HXbBmodel/bert/encoder/layer_._2/attention/self/value/Tensordot/MatMulhuMUB
+Ç
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8â†H@â†HHâ†HXbBmodel/bert/encoder/layer_._4/attention/self/value/Tensordot/MatMulhuMUB
+Ç
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8â†H@â†HHâ†HXbBmodel/bert/encoder/layer_._6/attention/self/value/Tensordot/MatMulhuMUB
+Ç
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8âòH@âòHHâòHXbBmodel/bert/encoder/layer_._3/attention/self/value/Tensordot/MatMulhuMUB
+Ç
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8àòH@àòHHàòHXbBmodel/bert/encoder/layer_._1/attention/self/value/Tensordot/MatMulhuMUB
+Ç
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8àêH@àêHHàêHXbBmodel/bert/encoder/layer_._5/attention/self/value/Tensordot/MatMulhuMUB
+Ç
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8à¯G@à¯GHà¯GXbBmodel/bert/encoder/layer_._8/attention/self/query/Tensordot/MatMulhuMUB
+{
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08âÿG@âÿGHâÿGb6model/bert/encoder/layer_._8/intermediate/Gelu/truedivhuZUÖB
+Ñ
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8àÿG@àÿGHàÿGXbDmodel/bert/encoder/layer_._8/attention/output/dense/Tensordot/MatMulhuMUB
+Ñ
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8à»G@à»GHà»GXbDmodel/bert/encoder/layer_._2/attention/output/dense/Tensordot/MatMulhuMUB
+Ö
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8ËøG@ËøGHËøGXbEmodel/bert/encoder/layer_._11/attention/output/dense/Tensordot/MatMulhuMUB
+Ñ
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8â∏G@â∏GHâ∏GXbDmodel/bert/encoder/layer_._6/attention/output/dense/Tensordot/MatMulhuMUB
+Ä
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8â∞G@â∞GHâ∞GXb@model/bert/encoder/layer_._7/attention/self/key/Tensordot/MatMulhuMUB
+Ñ
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8à∞G@à∞GHà∞GXbDmodel/bert/encoder/layer_._1/attention/output/dense/Tensordot/MatMulhuMUB
+Ö
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8à∞G@à∞GHà∞GXbEmodel/bert/encoder/layer_._10/attention/output/dense/Tensordot/MatMulhuMUB
+É
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8à∞G@à∞GHà∞GXbCmodel/bert/encoder/layer_._11/attention/self/query/Tensordot/MatMulhuMUB
+Ñ
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8à∞G@à∞GHà∞GXbDmodel/bert/encoder/layer_._3/attention/output/dense/Tensordot/MatMulhuMUB
+Ñ
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8à∞G@à∞GHà∞GXbDmodel/bert/encoder/layer_._4/attention/output/dense/Tensordot/MatMulhuMUB
+Ñ
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8à∞G@à∞GHà∞GXbDmodel/bert/encoder/layer_._5/attention/output/dense/Tensordot/MatMulhuMUB
+Ñ
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8à∞G@à∞GHà∞GXbDmodel/bert/encoder/layer_._7/attention/output/dense/Tensordot/MatMulhuMUB
+Ä
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8ÈØG@ÈØGHÈØGXb@model/bert/encoder/layer_._0/attention/self/key/Tensordot/MatMulhuMUB
+É
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8â®G@â®GHâ®GXbCmodel/bert/encoder/layer_._10/attention/self/query/Tensordot/MatMulhuMUB
+Ä
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8â®G@â®GHâ®GXb@model/bert/encoder/layer_._4/attention/self/key/Tensordot/MatMulhuMUB
+Ä
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8â®G@â®GHâ®GXb@model/bert/encoder/layer_._9/attention/self/key/Tensordot/MatMulhuMUB
+Ä
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8à®G@à®GHà®GXb@model/bert/encoder/layer_._3/attention/self/key/Tensordot/MatMulhuMUB
+Ä
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8à®G@à®GHà®GXb@model/bert/encoder/layer_._5/attention/self/key/Tensordot/MatMulhuMUB
+Ä
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8©ßG@©ßGH©ßGXb@model/bert/encoder/layer_._6/attention/self/key/Tensordot/MatMulhuMUB
+Ä
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8à†G@à†GHà†GXb@model/bert/encoder/layer_._1/attention/self/key/Tensordot/MatMulhuMUB
+Ä
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8à†G@à†GHà†GXb@model/bert/encoder/layer_._2/attention/self/key/Tensordot/MatMulhuMUB
+Ñ
+ampere_sgemm_128x64_nnzÄb*Ä2Ä8ààG@ààGHààGXbDmodel/bert/encoder/layer_._0/attention/output/dense/Tensordot/MatMulhuMUB
+Ø
+V_ZN7cutlass6KernelI51cutlass_80_tensorop_s1688gemm_128x64_16x6_tn_align4EEvNT_6ParamsEí Ä¿*Ä2 ¿8àòF@àòFHàòFXb2model/bert/encoder/layer_._9/attention/self/MatMulh
+Ø
+V_ZN7cutlass6KernelI51cutlass_80_tensorop_s1688gemm_128x64_16x6_tn_align4EEvNT_6ParamsEí Ä¿*Ä2 ¿8àÿE@àÿEHàÿEXb2model/bert/encoder/layer_._4/attention/self/MatMulh
+Ø
+V_ZN7cutlass6KernelI51cutlass_80_tensorop_s1688gemm_128x64_16x6_tn_align4EEvNT_6ParamsEí Ä¿*Ä2 ¿8à¿E@à¿EHà¿EXb2model/bert/encoder/layer_._8/attention/self/MatMulh
+Ø
+V_ZN7cutlass6KernelI51cutlass_80_tensorop_s1688gemm_128x64_16x6_tn_align4EEvNT_6ParamsEí Ä¿*Ä2 ¿8à∏E@à∏EHà∏EXb2model/bert/encoder/layer_._3/attention/self/MatMulh
+Ø
+V_ZN7cutlass6KernelI51cutlass_80_tensorop_s1688gemm_128x64_16x6_tn_align4EEvNT_6ParamsEí Ä¿*Ä2 ¿8â†E@â†EHâ†EXb2model/bert/encoder/layer_._5/attention/self/MatMulh
+Ø
+V_ZN7cutlass6KernelI51cutlass_80_tensorop_s1688gemm_128x64_16x6_tn_align4EEvNT_6ParamsEí Ä¿*Ä2 ¿8àòE@àòEHàòEXb2model/bert/encoder/layer_._7/attention/self/MatMulh
+Ø
+V_ZN7cutlass6KernelI51cutlass_80_tensorop_s1688gemm_128x64_16x6_tn_align4EEvNT_6ParamsEí Ä¿*Ä2 ¿8àêE@àêEHàêEXb2model/bert/encoder/layer_._0/attention/self/MatMulh
+∞
+V_ZN7cutlass6KernelI51cutlass_80_tensorop_s1688gemm_128x64_16x6_tn_align4EEvNT_6ParamsEí Ä¿*Ä2 ¿8ÈèE@ÈèEHÈèEXb3model/bert/encoder/layer_._11/attention/self/MatMulh
+∞
+V_ZN7cutlass6KernelI51cutlass_80_tensorop_s1688gemm_128x64_16x6_tn_align4EEvNT_6ParamsEí Ä¿*Ä2 ¿8àÄE@àÄEHàÄEXb3model/bert/encoder/layer_._10/attention/self/MatMulh
+Ø
+V_ZN7cutlass6KernelI51cutlass_80_tensorop_s1688gemm_128x64_16x6_tn_align4EEvNT_6ParamsEí Ä¿*Ä2 ¿8à¯D@à¯DHà¯DXb2model/bert/encoder/layer_._2/attention/self/MatMulh
+Ø
+V_ZN7cutlass6KernelI51cutlass_80_tensorop_s1688gemm_128x64_16x6_tn_align4EEvNT_6ParamsEí Ä¿*Ä2 ¿8àD@àDHàDXb2model/bert/encoder/layer_._1/attention/self/MatMulh
+Ø
+V_ZN7cutlass6KernelI51cutlass_80_tensorop_s1688gemm_128x64_16x6_tn_align4EEvNT_6ParamsEí Ä¿*Ä2 ¿8àËD@àËDHàËDXb2model/bert/encoder/layer_._6/attention/self/MatMulh
+≠
+U_ZN7cutlass6KernelI50cutlass_80_tensorop_s1688gemm_64x64_32x4_nn_align4EEvNT_6ParamsE¢ ÄÄ*@2¿8âêD@âêDHâêDb4model/bert/encoder/layer_._6/attention/self/MatMul_1h
+Æ
+U_ZN7cutlass6KernelI50cutlass_80_tensorop_s1688gemm_64x64_32x4_nn_align4EEvNT_6ParamsE¢ ÄÄ*@2¿8àêD@àêDHàêDb5model/bert/encoder/layer_._10/attention/self/MatMul_1h
+≠
+U_ZN7cutlass6KernelI50cutlass_80_tensorop_s1688gemm_64x64_32x4_nn_align4EEvNT_6ParamsE¢ ÄÄ*@2¿8àêD@àêDHàêDb4model/bert/encoder/layer_._7/attention/self/MatMul_1h
+≠
+U_ZN7cutlass6KernelI50cutlass_80_tensorop_s1688gemm_64x64_32x4_nn_align4EEvNT_6ParamsE¢ ÄÄ*@2¿8ààD@ààDHààDb4model/bert/encoder/layer_._1/attention/self/MatMul_1h
+Æ
+U_ZN7cutlass6KernelI50cutlass_80_tensorop_s1688gemm_64x64_32x4_nn_align4EEvNT_6ParamsE¢ ÄÄ*@2¿8ààD@ààDHààDb5model/bert/encoder/layer_._11/attention/self/MatMul_1h
+≠
+U_ZN7cutlass6KernelI50cutlass_80_tensorop_s1688gemm_64x64_32x4_nn_align4EEvNT_6ParamsE¢ ÄÄ*@2¿8ààD@ààDHààDb4model/bert/encoder/layer_._4/attention/self/MatMul_1h
+≠
+U_ZN7cutlass6KernelI50cutlass_80_tensorop_s1688gemm_64x64_32x4_nn_align4EEvNT_6ParamsE¢ ÄÄ*@2¿8ààD@ààDHààDb4model/bert/encoder/layer_._5/attention/self/MatMul_1h
+≠
+U_ZN7cutlass6KernelI50cutlass_80_tensorop_s1688gemm_64x64_32x4_nn_align4EEvNT_6ParamsE¢ ÄÄ*@2¿8àÄD@àÄDHàÄDb4model/bert/encoder/layer_._0/attention/self/MatMul_1h
+≠
+U_ZN7cutlass6KernelI50cutlass_80_tensorop_s1688gemm_64x64_32x4_nn_align4EEvNT_6ParamsE¢ ÄÄ*@2¿8àÄD@àÄDHàÄDb4model/bert/encoder/layer_._2/attention/self/MatMul_1h
+≠
+U_ZN7cutlass6KernelI50cutlass_80_tensorop_s1688gemm_64x64_32x4_nn_align4EEvNT_6ParamsE¢ ÄÄ*@2¿8àÄD@àÄDHàÄDb4model/bert/encoder/layer_._3/attention/self/MatMul_1h
+z
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÜÄ7@ÜÄ7HÜÄ7b5model/bert/encoder/layer_._10/intermediate/Gelu/mul_1huZUÖB
+y
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08á¯6@á¯6Há¯6b4model/bert/encoder/layer_._2/intermediate/Gelu/mul_1huZUÖB
+y
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08á¯6@á¯6Há¯6b4model/bert/encoder/layer_._5/intermediate/Gelu/mul_1huZUÖB
+y
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08á¯6@á¯6Há¯6b4model/bert/encoder/layer_._8/intermediate/Gelu/mul_1huZUÖB
+y
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ü¯6@Ü¯6HÜ¯6b4model/bert/encoder/layer_._0/intermediate/Gelu/mul_1huZUÖB
+y
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ü¯6@Ü¯6HÜ¯6b4model/bert/encoder/layer_._1/intermediate/Gelu/mul_1huZUÖB
+y
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ü¯6@Ü¯6HÜ¯6b4model/bert/encoder/layer_._4/intermediate/Gelu/mul_1huZUÖB
+y
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ü¯6@Ü¯6HÜ¯6b4model/bert/encoder/layer_._6/intermediate/Gelu/mul_1huZUÖB
+z
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08á6@á6Há6b5model/bert/encoder/layer_._11/intermediate/Gelu/mul_1huZUÖB
+y
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08á6@á6Há6b4model/bert/encoder/layer_._3/intermediate/Gelu/mul_1huZUÖB
+y
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08á6@á6Há6b4model/bert/encoder/layer_._7/intermediate/Gelu/mul_1huZUÖB
+y
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08á6@á6Há6b4model/bert/encoder/layer_._9/intermediate/Gelu/mul_1huZUÖB
+â
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2ÄÄ8Ü∞2@Ü∞2HÜ∞2bCmodel/bert/encoder/layer_._8/attention/self/dropout_25/dropout/Casthu  »B
+à
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2ÄÄ8Ü®2@Ü®2HÜ®2bBmodel/bert/encoder/layer_._0/attention/self/dropout_1/dropout/Casthu  »B
+à
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2ÄÄ8Ü®2@Ü®2HÜ®2bBmodel/bert/encoder/layer_._1/attention/self/dropout_4/dropout/Casthu  »B
+ä
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2ÄÄ8Ü®2@Ü®2HÜ®2bDmodel/bert/encoder/layer_._10/attention/self/dropout_31/dropout/Casthu  »B
+ä
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2ÄÄ8Ü®2@Ü®2HÜ®2bDmodel/bert/encoder/layer_._11/attention/self/dropout_34/dropout/Casthu  »B
+à
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2ÄÄ8Ü®2@Ü®2HÜ®2bBmodel/bert/encoder/layer_._2/attention/self/dropout_7/dropout/Casthu  »B
+â
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2ÄÄ8Ü®2@Ü®2HÜ®2bCmodel/bert/encoder/layer_._3/attention/self/dropout_10/dropout/Casthu  »B
+â
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2ÄÄ8Ü®2@Ü®2HÜ®2bCmodel/bert/encoder/layer_._4/attention/self/dropout_13/dropout/Casthu  »B
+â
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2ÄÄ8Ü®2@Ü®2HÜ®2bCmodel/bert/encoder/layer_._5/attention/self/dropout_16/dropout/Casthu  »B
+â
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2ÄÄ8Ü®2@Ü®2HÜ®2bCmodel/bert/encoder/layer_._6/attention/self/dropout_19/dropout/Casthu  »B
+â
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2ÄÄ8Ü®2@Ü®2HÜ®2bCmodel/bert/encoder/layer_._9/attention/self/dropout_28/dropout/Casthu  »B
+â
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2ÄÄ8Ü†2@Ü†2HÜ†2bCmodel/bert/encoder/layer_._7/attention/self/dropout_22/dropout/Casthu  »B
+ô
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä`8ÖË/@ÖË/HÖË/bLmodel/bert/encoder/layer_._10/attention/self/dropout_31/dropout/GreaterEqualhuZUÖB
+ó
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä`8Öÿ-@Öÿ-HÖÿ-bJmodel/bert/encoder/layer_._2/attention/self/dropout_7/dropout/GreaterEqualhuZUÖB
+ó
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä`8Ü–-@Ü–-HÜ–-bJmodel/bert/encoder/layer_._0/attention/self/dropout_1/dropout/GreaterEqualhuZUÖB
+ò
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä`8Ü–-@Ü–-HÜ–-bKmodel/bert/encoder/layer_._6/attention/self/dropout_19/dropout/GreaterEqualhuZUÖB
+ò
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä`8Ü–-@Ü–-HÜ–-bKmodel/bert/encoder/layer_._7/attention/self/dropout_22/dropout/GreaterEqualhuZUÖB
+ò
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä`8Ü–-@Ü–-HÜ–-bKmodel/bert/encoder/layer_._8/attention/self/dropout_25/dropout/GreaterEqualhuZUÖB
+ò
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä`8Ö–-@Ö–-HÖ–-bKmodel/bert/encoder/layer_._4/attention/self/dropout_13/dropout/GreaterEqualhuZUÖB
+ò
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä`8Ö–-@Ö–-HÖ–-bKmodel/bert/encoder/layer_._9/attention/self/dropout_28/dropout/GreaterEqualhuZUÖB
+ò
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä`8¶œ-@¶œ-H¶œ-bKmodel/bert/encoder/layer_._3/attention/self/dropout_10/dropout/GreaterEqualhuZUÖB
+ô
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä`8Ü»-@Ü»-HÜ»-bLmodel/bert/encoder/layer_._11/attention/self/dropout_34/dropout/GreaterEqualhuZUÖB
+ó
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä`8Ö»-@Ö»-HÖ»-bJmodel/bert/encoder/layer_._1/attention/self/dropout_4/dropout/GreaterEqualhuZUÖB
+ò
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä`8Ö»-@Ö»-HÖ»-bKmodel/bert/encoder/layer_._5/attention/self/dropout_16/dropout/GreaterEqualhuZUÖB
+å
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Öò(@Öò(HÖò(b7model/bert/encoder/layer_._8/intermediate/dense/BiasAddhuZUÖB
+å
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÖË'@ÖË'HÖË'b7model/bert/encoder/layer_._7/intermediate/dense/BiasAddhuZUÖB
+å
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Ö‡'@Ö‡'HÖ‡'b7model/bert/encoder/layer_._4/intermediate/dense/BiasAddhuZUÖB
+å
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Ö»'@Ö»'HÖ»'b7model/bert/encoder/layer_._0/intermediate/dense/BiasAddhuZUÖB
+ç
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Ö»'@Ö»'HÖ»'b8model/bert/encoder/layer_._10/intermediate/dense/BiasAddhuZUÖB
+x
+ Erf_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä¿8Ñ»'@Ñ»'HÑ»'b2model/bert/encoder/layer_._5/intermediate/Gelu/Erfhu  »B
+å
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Ö¿'@Ö¿'HÖ¿'b7model/bert/encoder/layer_._1/intermediate/dense/BiasAddhuZUÖB
+å
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Ö¿'@Ö¿'HÖ¿'b7model/bert/encoder/layer_._2/intermediate/dense/BiasAddhuZUÖB
+å
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Ö¿'@Ö¿'HÖ¿'b7model/bert/encoder/layer_._6/intermediate/dense/BiasAddhuZUÖB
+ç
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Ñ¿'@Ñ¿'HÑ¿'b8model/bert/encoder/layer_._11/intermediate/dense/BiasAddhuZUÖB
+å
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Ñ¿'@Ñ¿'HÑ¿'b7model/bert/encoder/layer_._3/intermediate/dense/BiasAddhuZUÖB
+å
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Ñ∏'@Ñ∏'HÑ∏'b7model/bert/encoder/layer_._9/intermediate/dense/BiasAddhuZUÖB
+å
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Ö∞'@Ö∞'HÖ∞'b7model/bert/encoder/layer_._5/intermediate/dense/BiasAddhuZUÖB
+ï
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8ÑÄ'@ÑÄ'HÑÄ'b\model/bert/encoder/layer_._10/attention/self/dropout_31/dropout/random_uniform/RandomUniformhuZUÖB
+î
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8Ñ&@Ñ&HÑ&b[model/bert/encoder/layer_._3/attention/self/dropout_10/dropout/random_uniform/RandomUniformhuZUÖB
+î
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8Ñ&@Ñ&HÑ&b[model/bert/encoder/layer_._5/attention/self/dropout_16/dropout/random_uniform/RandomUniformhuZUÖB
+ì
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8ÖË&@ÖË&HÖË&bZmodel/bert/encoder/layer_._1/attention/self/dropout_4/dropout/random_uniform/RandomUniformhuZUÖB
+î
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8ÖË&@ÖË&HÖË&b[model/bert/encoder/layer_._4/attention/self/dropout_13/dropout/random_uniform/RandomUniformhuZUÖB
+ï
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8Ö‡&@Ö‡&HÖ‡&b\model/bert/encoder/layer_._11/attention/self/dropout_34/dropout/random_uniform/RandomUniformhuZUÖB
+î
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8Ñ‡&@Ñ‡&HÑ‡&b[model/bert/encoder/layer_._6/attention/self/dropout_19/dropout/random_uniform/RandomUniformhuZUÖB
+î
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8Ñ‡&@Ñ‡&HÑ‡&b[model/bert/encoder/layer_._7/attention/self/dropout_22/dropout/random_uniform/RandomUniformhuZUÖB
+î
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8•ﬂ&@•ﬂ&H•ﬂ&b[model/bert/encoder/layer_._8/attention/self/dropout_25/dropout/random_uniform/RandomUniformhuZUÖB
+ì
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8Öÿ&@Öÿ&HÖÿ&bZmodel/bert/encoder/layer_._0/attention/self/dropout_1/dropout/random_uniform/RandomUniformhuZUÖB
+î
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8Öÿ&@Öÿ&HÖÿ&b[model/bert/encoder/layer_._9/attention/self/dropout_28/dropout/random_uniform/RandomUniformhuZUÖB
+ƒ
+k_ZN10tensorflow7functor15RowReduceKernelIPKfPfN3cub3MaxEEEvT_T0_iiT1_NSt15iterator_traitsIS7_E10value_typeE *Ä2Ä¿8Ñê&@Ñê&HÑê&b3model/bert/encoder/layer_._0/attention/self/Softmaxhu  »B
+ƒ
+k_ZN10tensorflow7functor15RowReduceKernelIPKfPfN3cub3MaxEEEvT_T0_iiT1_NSt15iterator_traitsIS7_E10value_typeE *Ä2Ä¿8Ñê&@Ñê&HÑê&b3model/bert/encoder/layer_._6/attention/self/Softmaxhu  »B
+y
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ö∏%@Ö∏%HÖ∏%b2model/bert/encoder/layer_._5/intermediate/Gelu/addhuZUÖB
+x
+ Erf_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä¿8Ñ∞%@Ñ∞%HÑ∞%b2model/bert/encoder/layer_._8/intermediate/Gelu/Erfhu  »B
+{
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Öà%@Öà%HÖà%b6model/bert/encoder/layer_._5/intermediate/Gelu/truedivhuZUÖB
+{
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Öà%@Öà%HÖà%b6model/bert/encoder/layer_._9/intermediate/Gelu/truedivhuZUÖB
+|
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ñà%@Ñà%HÑà%b7model/bert/encoder/layer_._10/intermediate/Gelu/truedivhuZUÖB
+w
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ñà%@Ñà%HÑà%b2model/bert/encoder/layer_._8/intermediate/Gelu/mulhuZUÖB
+y
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Öá%@Öá%HÖá%b2model/bert/encoder/layer_._3/intermediate/Gelu/addhuZUÖB
+z
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÖÄ%@ÖÄ%HÖÄ%b3model/bert/encoder/layer_._11/intermediate/Gelu/addhuZUÖB
+y
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÖÄ%@ÖÄ%HÖÄ%b2model/bert/encoder/layer_._2/intermediate/Gelu/addhuZUÖB
+y
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÖÄ%@ÖÄ%HÖÄ%b2model/bert/encoder/layer_._7/intermediate/Gelu/addhuZUÖB
+y
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÖÄ%@ÖÄ%HÖÄ%b2model/bert/encoder/layer_._9/intermediate/Gelu/addhuZUÖB
+x
+ Erf_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä¿8ÖÄ%@ÖÄ%HÖÄ%b2model/bert/encoder/layer_._1/intermediate/Gelu/Erfhu  »B
+y
+ Erf_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä¿8ÖÄ%@ÖÄ%HÖÄ%b3model/bert/encoder/layer_._10/intermediate/Gelu/Erfhu  »B
+x
+ Erf_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä¿8ÖÄ%@ÖÄ%HÖÄ%b2model/bert/encoder/layer_._4/intermediate/Gelu/Erfhu  »B
+x
+ Erf_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä¿8ÖÄ%@ÖÄ%HÖÄ%b2model/bert/encoder/layer_._6/intermediate/Gelu/Erfhu  »B
+w
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÖÄ%@ÖÄ%HÖÄ%b2model/bert/encoder/layer_._1/intermediate/Gelu/mulhuZUÖB
+x
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÖÄ%@ÖÄ%HÖÄ%b3model/bert/encoder/layer_._10/intermediate/Gelu/mulhuZUÖB
+{
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÖÄ%@ÖÄ%HÖÄ%b6model/bert/encoder/layer_._2/intermediate/Gelu/truedivhuZUÖB
+w
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÖÄ%@ÖÄ%HÖÄ%b2model/bert/encoder/layer_._6/intermediate/Gelu/mulhuZUÖB
+{
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÖÄ%@ÖÄ%HÖÄ%b6model/bert/encoder/layer_._7/intermediate/Gelu/truedivhuZUÖB
+y
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÑÄ%@ÑÄ%HÑÄ%b2model/bert/encoder/layer_._0/intermediate/Gelu/addhuZUÖB
+y
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÑÄ%@ÑÄ%HÑÄ%b2model/bert/encoder/layer_._4/intermediate/Gelu/addhuZUÖB
+y
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÑÄ%@ÑÄ%HÑÄ%b2model/bert/encoder/layer_._6/intermediate/Gelu/addhuZUÖB
+x
+ Erf_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä¿8ÑÄ%@ÑÄ%HÑÄ%b2model/bert/encoder/layer_._0/intermediate/Gelu/Erfhu  »B
+y
+ Erf_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä¿8ÑÄ%@ÑÄ%HÑÄ%b3model/bert/encoder/layer_._11/intermediate/Gelu/Erfhu  »B
+x
+ Erf_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä¿8ÑÄ%@ÑÄ%HÑÄ%b2model/bert/encoder/layer_._2/intermediate/Gelu/Erfhu  »B
+x
+ Erf_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä¿8ÑÄ%@ÑÄ%HÑÄ%b2model/bert/encoder/layer_._3/intermediate/Gelu/Erfhu  »B
+x
+ Erf_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä¿8ÑÄ%@ÑÄ%HÑÄ%b2model/bert/encoder/layer_._7/intermediate/Gelu/Erfhu  »B
+w
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÑÄ%@ÑÄ%HÑÄ%b2model/bert/encoder/layer_._0/intermediate/Gelu/mulhuZUÖB
+{
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÑÄ%@ÑÄ%HÑÄ%b6model/bert/encoder/layer_._0/intermediate/Gelu/truedivhuZUÖB
+{
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÑÄ%@ÑÄ%HÑÄ%b6model/bert/encoder/layer_._1/intermediate/Gelu/truedivhuZUÖB
+x
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÑÄ%@ÑÄ%HÑÄ%b3model/bert/encoder/layer_._11/intermediate/Gelu/mulhuZUÖB
+|
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÑÄ%@ÑÄ%HÑÄ%b7model/bert/encoder/layer_._11/intermediate/Gelu/truedivhuZUÖB
+w
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÑÄ%@ÑÄ%HÑÄ%b2model/bert/encoder/layer_._2/intermediate/Gelu/mulhuZUÖB
+w
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÑÄ%@ÑÄ%HÑÄ%b2model/bert/encoder/layer_._3/intermediate/Gelu/mulhuZUÖB
+{
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÑÄ%@ÑÄ%HÑÄ%b6model/bert/encoder/layer_._3/intermediate/Gelu/truedivhuZUÖB
+{
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÑÄ%@ÑÄ%HÑÄ%b6model/bert/encoder/layer_._4/intermediate/Gelu/truedivhuZUÖB
+w
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÑÄ%@ÑÄ%HÑÄ%b2model/bert/encoder/layer_._5/intermediate/Gelu/mulhuZUÖB
+{
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÑÄ%@ÑÄ%HÑÄ%b6model/bert/encoder/layer_._6/intermediate/Gelu/truedivhuZUÖB
+w
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÑÄ%@ÑÄ%HÑÄ%b2model/bert/encoder/layer_._7/intermediate/Gelu/mulhuZUÖB
+w
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÑÄ%@ÑÄ%HÑÄ%b2model/bert/encoder/layer_._9/intermediate/Gelu/mulhuZUÖB
+x
+ Erf_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä¿8§ˇ$@§ˇ$H§ˇ$b2model/bert/encoder/layer_._9/intermediate/Gelu/Erfhu  »B
+w
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Öˇ$@Öˇ$HÖˇ$b2model/bert/encoder/layer_._4/intermediate/Gelu/mulhuZUÖB
+y
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ñ¯$@Ñ¯$HÑ¯$b2model/bert/encoder/layer_._1/intermediate/Gelu/addhuZUÖB
+z
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ñ¯$@Ñ¯$HÑ¯$b3model/bert/encoder/layer_._10/intermediate/Gelu/addhuZUÖB
+Â
+ã_ZN10tensorflow7functor15RowReduceKernelIN3cub22TransformInputIteratorIfNS_65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739221SubtractAndExpFunctorIffEENS2_21CountingInputIteratorIixEExEEPfNS2_3SumEEEvT_T0_iiT1_NSt15iterator_traitsISC_E10value_typeE*Ä2Ä¿8Ö–$@Ö–$HÖ–$b3model/bert/encoder/layer_._9/attention/self/Softmaxhu  »B
+ƒ
+k_ZN10tensorflow7functor15RowReduceKernelIPKfPfN3cub3MaxEEEvT_T0_iiT1_NSt15iterator_traitsIS7_E10value_typeE *Ä2Ä¿8Ö–$@Ö–$HÖ–$b3model/bert/encoder/layer_._3/attention/self/Softmaxhu  »B
+ƒ
+k_ZN10tensorflow7functor15RowReduceKernelIPKfPfN3cub3MaxEEEvT_T0_iiT1_NSt15iterator_traitsIS7_E10value_typeE *Ä2Ä¿8Ñ–$@Ñ–$HÑ–$b3model/bert/encoder/layer_._4/attention/self/Softmaxhu  »B
+ƒ
+k_ZN10tensorflow7functor15RowReduceKernelIPKfPfN3cub3MaxEEEvT_T0_iiT1_NSt15iterator_traitsIS7_E10value_typeE *Ä2Ä¿8Ñ–$@Ñ–$HÑ–$b3model/bert/encoder/layer_._8/attention/self/Softmaxhu  »B
+ƒ
+k_ZN10tensorflow7functor15RowReduceKernelIPKfPfN3cub3MaxEEEvT_T0_iiT1_NSt15iterator_traitsIS7_E10value_typeE *Ä2Ä¿8Ñ–$@Ñ–$HÑ–$b3model/bert/encoder/layer_._9/attention/self/Softmaxhu  »B
+ƒ
+k_ZN10tensorflow7functor15RowReduceKernelIPKfPfN3cub3MaxEEEvT_T0_iiT1_NSt15iterator_traitsIS7_E10value_typeE *Ä2Ä¿8Ö»$@Ö»$HÖ»$b3model/bert/encoder/layer_._2/attention/self/Softmaxhu  »B
+ƒ
+k_ZN10tensorflow7functor15RowReduceKernelIPKfPfN3cub3MaxEEEvT_T0_iiT1_NSt15iterator_traitsIS7_E10value_typeE *Ä2Ä¿8Ö»$@Ö»$HÖ»$b3model/bert/encoder/layer_._5/attention/self/Softmaxhu  »B
+ƒ
+k_ZN10tensorflow7functor15RowReduceKernelIPKfPfN3cub3MaxEEEvT_T0_iiT1_NSt15iterator_traitsIS7_E10value_typeE *Ä2Ä¿8Ñ»$@Ñ»$HÑ»$b3model/bert/encoder/layer_._1/attention/self/Softmaxhu  »B
+≈
+k_ZN10tensorflow7functor15RowReduceKernelIPKfPfN3cub3MaxEEEvT_T0_iiT1_NSt15iterator_traitsIS7_E10value_typeE *Ä2Ä¿8Ñ»$@Ñ»$HÑ»$b4model/bert/encoder/layer_._10/attention/self/Softmaxhu  »B
+≈
+k_ZN10tensorflow7functor15RowReduceKernelIPKfPfN3cub3MaxEEEvT_T0_iiT1_NSt15iterator_traitsIS7_E10value_typeE *Ä2Ä¿8Ñ»$@Ñ»$HÑ»$b4model/bert/encoder/layer_._11/attention/self/Softmaxhu  »B
+Â
+ã_ZN10tensorflow7functor15RowReduceKernelIN3cub22TransformInputIteratorIfNS_65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739221SubtractAndExpFunctorIffEENS2_21CountingInputIteratorIixEExEEPfNS2_3SumEEEvT_T0_iiT1_NSt15iterator_traitsISC_E10value_typeE*Ä2Ä¿8Ñ¿$@Ñ¿$HÑ¿$b3model/bert/encoder/layer_._0/attention/self/Softmaxhu  »B
+ƒ
+k_ZN10tensorflow7functor15RowReduceKernelIPKfPfN3cub3MaxEEEvT_T0_iiT1_NSt15iterator_traitsIS7_E10value_typeE *Ä2Ä¿8Ñ¿$@Ñ¿$HÑ¿$b3model/bert/encoder/layer_._7/attention/self/Softmaxhu  »B
+Â
+ã_ZN10tensorflow7functor15RowReduceKernelIN3cub22TransformInputIteratorIfNS_65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739221SubtractAndExpFunctorIffEENS2_21CountingInputIteratorIixEExEEPfNS2_3SumEEEvT_T0_iiT1_NSt15iterator_traitsISC_E10value_typeE*Ä2Ä¿8Ö∏$@Ö∏$HÖ∏$b3model/bert/encoder/layer_._1/attention/self/Softmaxhu  »B
+Â
+ã_ZN10tensorflow7functor15RowReduceKernelIN3cub22TransformInputIteratorIfNS_65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739221SubtractAndExpFunctorIffEENS2_21CountingInputIteratorIixEExEEPfNS2_3SumEEEvT_T0_iiT1_NSt15iterator_traitsISC_E10value_typeE*Ä2Ä¿8Ö∏$@Ö∏$HÖ∏$b3model/bert/encoder/layer_._4/attention/self/Softmaxhu  »B
+Â
+ã_ZN10tensorflow7functor15RowReduceKernelIN3cub22TransformInputIteratorIfNS_65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739221SubtractAndExpFunctorIffEENS2_21CountingInputIteratorIixEExEEPfNS2_3SumEEEvT_T0_iiT1_NSt15iterator_traitsISC_E10value_typeE*Ä2Ä¿8Ö∏$@Ö∏$HÖ∏$b3model/bert/encoder/layer_._7/attention/self/Softmaxhu  »B
+Â
+ã_ZN10tensorflow7functor15RowReduceKernelIN3cub22TransformInputIteratorIfNS_65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739221SubtractAndExpFunctorIffEENS2_21CountingInputIteratorIixEExEEPfNS2_3SumEEEvT_T0_iiT1_NSt15iterator_traitsISC_E10value_typeE*Ä2Ä¿8Ö∏$@Ö∏$HÖ∏$b3model/bert/encoder/layer_._8/attention/self/Softmaxhu  »B
+Ê
+ã_ZN10tensorflow7functor15RowReduceKernelIN3cub22TransformInputIteratorIfNS_65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739221SubtractAndExpFunctorIffEENS2_21CountingInputIteratorIixEExEEPfNS2_3SumEEEvT_T0_iiT1_NSt15iterator_traitsISC_E10value_typeE*Ä2Ä¿8Ñ∏$@Ñ∏$HÑ∏$b4model/bert/encoder/layer_._10/attention/self/Softmaxhu  »B
+Ê
+ã_ZN10tensorflow7functor15RowReduceKernelIN3cub22TransformInputIteratorIfNS_65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739221SubtractAndExpFunctorIffEENS2_21CountingInputIteratorIixEExEEPfNS2_3SumEEEvT_T0_iiT1_NSt15iterator_traitsISC_E10value_typeE*Ä2Ä¿8Ñ∏$@Ñ∏$HÑ∏$b4model/bert/encoder/layer_._11/attention/self/Softmaxhu  »B
+Â
+ã_ZN10tensorflow7functor15RowReduceKernelIN3cub22TransformInputIteratorIfNS_65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739221SubtractAndExpFunctorIffEENS2_21CountingInputIteratorIixEExEEPfNS2_3SumEEEvT_T0_iiT1_NSt15iterator_traitsISC_E10value_typeE*Ä2Ä¿8Ñ∏$@Ñ∏$HÑ∏$b3model/bert/encoder/layer_._2/attention/self/Softmaxhu  »B
+Â
+ã_ZN10tensorflow7functor15RowReduceKernelIN3cub22TransformInputIteratorIfNS_65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739221SubtractAndExpFunctorIffEENS2_21CountingInputIteratorIixEExEEPfNS2_3SumEEEvT_T0_iiT1_NSt15iterator_traitsISC_E10value_typeE*Ä2Ä¿8Ñ∏$@Ñ∏$HÑ∏$b3model/bert/encoder/layer_._3/attention/self/Softmaxhu  »B
+Â
+ã_ZN10tensorflow7functor15RowReduceKernelIN3cub22TransformInputIteratorIfNS_65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739221SubtractAndExpFunctorIffEENS2_21CountingInputIteratorIixEExEEPfNS2_3SumEEEvT_T0_iiT1_NSt15iterator_traitsISC_E10value_typeE*Ä2Ä¿8Ñ∏$@Ñ∏$HÑ∏$b3model/bert/encoder/layer_._5/attention/self/Softmaxhu  »B
+Â
+ã_ZN10tensorflow7functor15RowReduceKernelIN3cub22TransformInputIteratorIfNS_65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739221SubtractAndExpFunctorIffEENS2_21CountingInputIteratorIixEExEEPfNS2_3SumEEEvT_T0_iiT1_NSt15iterator_traitsISC_E10value_typeE*Ä2Ä¿8Ñ∏$@Ñ∏$HÑ∏$b3model/bert/encoder/layer_._6/attention/self/Softmaxhu  »B
+˝
+ó_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIffEEKNS9_INSA_IKfSC_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EESG_EESG_EEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8É¿@É¿HÉ¿bAmodel/bert/embeddings/add/ArithmeticOptimizer/AddOpsRewrite_add_1huZUÖB
+n
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Çò@ÇòHÇòb'model/bert/encoder/layer_._1/output/addhuZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8ÇÄ@ÇÄHÇÄbGmodel/bert/encoder/layer_._3/attention/output/LayerNorm/batchnorm/mul_1huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8Å®@Å®HÅ®b7model/bert/encoder/layer_._9/attention/self/transpose_1huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8Ç†@Ç†HÇ†b7model/bert/encoder/layer_._9/attention/self/transpose_2huZUÖB
+Œ
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8Çê@ÇêHÇêb5model/bert/encoder/layer_._3/attention/self/transposehuZUÖB
+Œ
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8Çê@ÇêHÇêb5model/bert/encoder/layer_._5/attention/self/transposehuZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8Çê@ÇêHÇêb7model/bert/encoder/layer_._6/attention/self/transpose_1huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8Åê@ÅêHÅêb7model/bert/encoder/layer_._9/attention/self/transpose_3huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8¡è@¡èH¡èb7model/bert/encoder/layer_._5/attention/self/transpose_2huZUÖB
+œ
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8Çà@ÇàHÇàb6model/bert/encoder/layer_._11/attention/self/transposehuZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8Çà@ÇàHÇàb7model/bert/encoder/layer_._4/attention/self/transpose_1huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8Çà@ÇàHÇàb7model/bert/encoder/layer_._5/attention/self/transpose_1huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8Çà@ÇàHÇàb7model/bert/encoder/layer_._7/attention/self/transpose_1huZUÖB
+Œ
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8Çà@ÇàHÇàb5model/bert/encoder/layer_._9/attention/self/transposehuZUÖB
+œ
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8Åà@ÅàHÅàb6model/bert/encoder/layer_._10/attention/self/transposehuZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8¬á@¬áH¬áb7model/bert/encoder/layer_._1/attention/self/transpose_3huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8¬á@¬áH¬áb7model/bert/encoder/layer_._8/attention/self/transpose_3huZUÖB
+—
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8¢á@¢áH¢áb8model/bert/encoder/layer_._11/attention/self/transpose_1huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8¢á@¢áH¢áb7model/bert/encoder/layer_._8/attention/self/transpose_2huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÇÄ@ÇÄHÇÄb7model/bert/encoder/layer_._0/attention/self/transpose_1huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÇÄ@ÇÄHÇÄb7model/bert/encoder/layer_._0/attention/self/transpose_2huZUÖB
+Œ
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÇÄ@ÇÄHÇÄb5model/bert/encoder/layer_._1/attention/self/transposehuZUÖB
+—
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÇÄ@ÇÄHÇÄb8model/bert/encoder/layer_._10/attention/self/transpose_2huZUÖB
+Œ
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÇÄ@ÇÄHÇÄb5model/bert/encoder/layer_._2/attention/self/transposehuZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÇÄ@ÇÄHÇÄb7model/bert/encoder/layer_._2/attention/self/transpose_3huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÇÄ@ÇÄHÇÄb7model/bert/encoder/layer_._3/attention/self/transpose_2huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÇÄ@ÇÄHÇÄb7model/bert/encoder/layer_._3/attention/self/transpose_3huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÇÄ@ÇÄHÇÄb7model/bert/encoder/layer_._5/attention/self/transpose_3huZUÖB
+Œ
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÅÄ@ÅÄHÅÄb5model/bert/encoder/layer_._0/attention/self/transposehuZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÅÄ@ÅÄHÅÄb7model/bert/encoder/layer_._0/attention/self/transpose_3huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÅÄ@ÅÄHÅÄb7model/bert/encoder/layer_._1/attention/self/transpose_2huZUÖB
+—
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÅÄ@ÅÄHÅÄb8model/bert/encoder/layer_._10/attention/self/transpose_3huZUÖB
+—
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÅÄ@ÅÄHÅÄb8model/bert/encoder/layer_._11/attention/self/transpose_2huZUÖB
+—
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÅÄ@ÅÄHÅÄb8model/bert/encoder/layer_._11/attention/self/transpose_3huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÅÄ@ÅÄHÅÄb7model/bert/encoder/layer_._2/attention/self/transpose_1huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÅÄ@ÅÄHÅÄb7model/bert/encoder/layer_._3/attention/self/transpose_1huZUÖB
+Œ
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÅÄ@ÅÄHÅÄb5model/bert/encoder/layer_._4/attention/self/transposehuZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÅÄ@ÅÄHÅÄb7model/bert/encoder/layer_._4/attention/self/transpose_2huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÅÄ@ÅÄHÅÄb7model/bert/encoder/layer_._4/attention/self/transpose_3huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÅÄ@ÅÄHÅÄb7model/bert/encoder/layer_._6/attention/self/transpose_3huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8ÅÄ@ÅÄHÅÄb7model/bert/encoder/layer_._7/attention/self/transpose_2huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8‚ˇ@‚ˇH‚ˇb7model/bert/encoder/layer_._6/attention/self/transpose_2huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8¬ˇ@¬ˇH¬ˇb7model/bert/encoder/layer_._1/attention/self/transpose_1huZUÖB
+é
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç¯@Ç¯HÇ¯bGmodel/bert/encoder/layer_._8/attention/output/LayerNorm/batchnorm/add_1huZUÖB
+t
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç¯@Ç¯HÇ¯b/model/bert/embeddings/LayerNorm/batchnorm/mul_1huZUÖB
+Ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç¯@Ç¯HÇ¯b;model/bert/encoder/layer_._2/output/dropout_9/dropout/Mul_1huZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç¯@Ç¯HÇ¯bGmodel/bert/encoder/layer_._8/attention/output/LayerNorm/batchnorm/mul_1huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8Ç¯@Ç¯HÇ¯b7model/bert/encoder/layer_._2/attention/self/transpose_2huZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8Ç¯@Ç¯HÇ¯b7model/bert/encoder/layer_._7/attention/self/transpose_3huZUÖB
+Œ
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8Ç¯@Ç¯HÇ¯b5model/bert/encoder/layer_._8/attention/self/transposehuZUÖB
+–
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8Ç¯@Ç¯HÇ¯b7model/bert/encoder/layer_._8/attention/self/transpose_1huZUÖB
+é
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å¯@Å¯HÅ¯bGmodel/bert/encoder/layer_._5/attention/output/LayerNorm/batchnorm/add_1huZUÖB
+ã
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å¯@Å¯HÅ¯bFmodel/bert/encoder/layer_._8/attention/output/dropout_26/dropout/Mul_1huZUÖB
+—
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8Å¯@Å¯HÅ¯b8model/bert/encoder/layer_._10/attention/self/transpose_1huZUÖB
+Œ
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8Å¯@Å¯HÅ¯b5model/bert/encoder/layer_._6/attention/self/transposehuZUÖB
+Œ
+Ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIjLi4ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorShufflingOpIKNS_5arrayIiLy4EEEKNS4_INS5_IKjLi4ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä2*8Å¯@Å¯HÅ¯b5model/bert/encoder/layer_._7/attention/self/transposehuZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8‚˜@‚˜H‚˜b=model/bert/encoder/layer_._8/output/LayerNorm/batchnorm/mul_1huZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8¡˜@¡˜H¡˜b=model/bert/encoder/layer_._11/output/dropout_36/dropout/Mul_1huZUÖB
+Å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç˜@Ç˜HÇ˜b<model/bert/encoder/layer_._6/output/dropout_21/dropout/Mul_1huZUÖB
+é
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇbGmodel/bert/encoder/layer_._1/attention/output/LayerNorm/batchnorm/add_1huZUÖB
+x
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb1model/bert/encoder/layer_._1/attention/output/addhuZUÖB
+Ñ
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb=model/bert/encoder/layer_._1/output/LayerNorm/batchnorm/add_1huZUÖB
+è
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇbHmodel/bert/encoder/layer_._10/attention/output/LayerNorm/batchnorm/add_1huZUÖB
+y
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb2model/bert/encoder/layer_._10/attention/output/addhuZUÖB
+è
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇbHmodel/bert/encoder/layer_._11/attention/output/LayerNorm/batchnorm/add_1huZUÖB
+Ö
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb>model/bert/encoder/layer_._11/output/LayerNorm/batchnorm/add_1huZUÖB
+o
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb(model/bert/encoder/layer_._11/output/addhuZUÖB
+x
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb1model/bert/encoder/layer_._2/attention/output/addhuZUÖB
+Ñ
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb=model/bert/encoder/layer_._2/output/LayerNorm/batchnorm/add_1huZUÖB
+n
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb'model/bert/encoder/layer_._2/output/addhuZUÖB
+é
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇbGmodel/bert/encoder/layer_._3/attention/output/LayerNorm/batchnorm/add_1huZUÖB
+Ñ
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb=model/bert/encoder/layer_._3/output/LayerNorm/batchnorm/add_1huZUÖB
+é
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇbGmodel/bert/encoder/layer_._4/attention/output/LayerNorm/batchnorm/add_1huZUÖB
+x
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb1model/bert/encoder/layer_._5/attention/output/addhuZUÖB
+é
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇbGmodel/bert/encoder/layer_._6/attention/output/LayerNorm/batchnorm/add_1huZUÖB
+Ñ
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb=model/bert/encoder/layer_._7/output/LayerNorm/batchnorm/add_1huZUÖB
+n
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb'model/bert/encoder/layer_._7/output/addhuZUÖB
+x
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb1model/bert/encoder/layer_._8/attention/output/addhuZUÖB
+Ñ
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb=model/bert/encoder/layer_._9/output/LayerNorm/batchnorm/add_1huZUÖB
+p
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb+model/bert/embeddings/dropout/dropout/Mul_1huZUÖB
+ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇbEmodel/bert/encoder/layer_._0/attention/output/dropout_2/dropout/Mul_1huZUÖB
+Ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb;model/bert/encoder/layer_._0/output/dropout_3/dropout/Mul_1huZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇbGmodel/bert/encoder/layer_._1/attention/output/LayerNorm/batchnorm/mul_1huZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb=model/bert/encoder/layer_._1/output/LayerNorm/batchnorm/mul_1huZUÖB
+Ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb;model/bert/encoder/layer_._1/output/dropout_6/dropout/Mul_1huZUÖB
+ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇbHmodel/bert/encoder/layer_._10/attention/output/LayerNorm/batchnorm/mul_1huZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇbGmodel/bert/encoder/layer_._10/attention/output/dropout_32/dropout/Mul_1huZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb=model/bert/encoder/layer_._10/output/dropout_33/dropout/Mul_1huZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇbGmodel/bert/encoder/layer_._11/attention/output/dropout_35/dropout/Mul_1huZUÖB
+É
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb>model/bert/encoder/layer_._11/output/LayerNorm/batchnorm/mul_1huZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇbGmodel/bert/encoder/layer_._2/attention/output/LayerNorm/batchnorm/mul_1huZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb=model/bert/encoder/layer_._2/output/LayerNorm/batchnorm/mul_1huZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb=model/bert/encoder/layer_._3/output/LayerNorm/batchnorm/mul_1huZUÖB
+Å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb<model/bert/encoder/layer_._3/output/dropout_12/dropout/Mul_1huZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇbGmodel/bert/encoder/layer_._4/attention/output/LayerNorm/batchnorm/mul_1huZUÖB
+ã
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇbFmodel/bert/encoder/layer_._4/attention/output/dropout_14/dropout/Mul_1huZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb=model/bert/encoder/layer_._4/output/LayerNorm/batchnorm/mul_1huZUÖB
+Å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb<model/bert/encoder/layer_._4/output/dropout_15/dropout/Mul_1huZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇbGmodel/bert/encoder/layer_._5/attention/output/LayerNorm/batchnorm/mul_1huZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb=model/bert/encoder/layer_._5/output/LayerNorm/batchnorm/mul_1huZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb=model/bert/encoder/layer_._6/output/LayerNorm/batchnorm/mul_1huZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇbGmodel/bert/encoder/layer_._7/attention/output/LayerNorm/batchnorm/mul_1huZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb=model/bert/encoder/layer_._7/output/LayerNorm/batchnorm/mul_1huZUÖB
+Å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb<model/bert/encoder/layer_._7/output/dropout_24/dropout/Mul_1huZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇbGmodel/bert/encoder/layer_._9/attention/output/LayerNorm/batchnorm/mul_1huZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç@ÇHÇb=model/bert/encoder/layer_._9/output/LayerNorm/batchnorm/mul_1huZUÖB
+v
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅb/model/bert/embeddings/LayerNorm/batchnorm/add_1huZUÖB
+é
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅbGmodel/bert/encoder/layer_._0/attention/output/LayerNorm/batchnorm/add_1huZUÖB
+Ö
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅb>model/bert/encoder/layer_._10/output/LayerNorm/batchnorm/add_1huZUÖB
+Ñ
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅb=model/bert/encoder/layer_._4/output/LayerNorm/batchnorm/add_1huZUÖB
+n
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅb'model/bert/encoder/layer_._4/output/addhuZUÖB
+Ñ
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅb=model/bert/encoder/layer_._5/output/LayerNorm/batchnorm/add_1huZUÖB
+Ñ
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅb=model/bert/encoder/layer_._6/output/LayerNorm/batchnorm/add_1huZUÖB
+n
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅb'model/bert/encoder/layer_._6/output/addhuZUÖB
+é
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅbGmodel/bert/encoder/layer_._7/attention/output/LayerNorm/batchnorm/add_1huZUÖB
+Ñ
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅb=model/bert/encoder/layer_._8/output/LayerNorm/batchnorm/add_1huZUÖB
+é
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅbGmodel/bert/encoder/layer_._9/attention/output/LayerNorm/batchnorm/add_1huZUÖB
+x
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅb1model/bert/encoder/layer_._9/attention/output/addhuZUÖB
+n
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅb'model/bert/encoder/layer_._9/output/addhuZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅb=model/bert/encoder/layer_._0/output/LayerNorm/batchnorm/mul_1huZUÖB
+ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅbEmodel/bert/encoder/layer_._1/attention/output/dropout_5/dropout/Mul_1huZUÖB
+É
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅb>model/bert/encoder/layer_._10/output/LayerNorm/batchnorm/mul_1huZUÖB
+ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅbHmodel/bert/encoder/layer_._11/attention/output/LayerNorm/batchnorm/mul_1huZUÖB
+ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅbEmodel/bert/encoder/layer_._2/attention/output/dropout_8/dropout/Mul_1huZUÖB
+ã
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅbFmodel/bert/encoder/layer_._3/attention/output/dropout_11/dropout/Mul_1huZUÖB
+ã
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅbFmodel/bert/encoder/layer_._5/attention/output/dropout_17/dropout/Mul_1huZUÖB
+Å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅb<model/bert/encoder/layer_._5/output/dropout_18/dropout/Mul_1huZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅbGmodel/bert/encoder/layer_._6/attention/output/LayerNorm/batchnorm/mul_1huZUÖB
+ã
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅbFmodel/bert/encoder/layer_._7/attention/output/dropout_23/dropout/Mul_1huZUÖB
+Å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅb<model/bert/encoder/layer_._8/output/dropout_27/dropout/Mul_1huZUÖB
+Å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å@ÅHÅb<model/bert/encoder/layer_._9/output/dropout_30/dropout/Mul_1huZUÖB
+n
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8·Ô@·ÔH·Ôb'model/bert/encoder/layer_._0/output/addhuZUÖB
+o
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8¡Ô@¡ÔH¡Ôb(model/bert/encoder/layer_._10/output/addhuZUÖB
+ã
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8¢Ô@¢ÔH¢ÔbFmodel/bert/encoder/layer_._6/attention/output/dropout_20/dropout/Mul_1huZUÖB
+x
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8°Ô@°ÔH°Ôb1model/bert/encoder/layer_._7/attention/output/addhuZUÖB
+x
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8ÇË@ÇËHÇËb1model/bert/encoder/layer_._0/attention/output/addhuZUÖB
+Ñ
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8ÇË@ÇËHÇËb=model/bert/encoder/layer_._0/output/LayerNorm/batchnorm/add_1huZUÖB
+y
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8ÇË@ÇËHÇËb2model/bert/encoder/layer_._11/attention/output/addhuZUÖB
+x
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8ÇË@ÇËHÇËb1model/bert/encoder/layer_._3/attention/output/addhuZUÖB
+n
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8ÇË@ÇËHÇËb'model/bert/encoder/layer_._3/output/addhuZUÖB
+x
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8ÇË@ÇËHÇËb1model/bert/encoder/layer_._4/attention/output/addhuZUÖB
+n
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8ÇË@ÇËHÇËb'model/bert/encoder/layer_._5/output/addhuZUÖB
+x
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8ÇË@ÇËHÇËb1model/bert/encoder/layer_._6/attention/output/addhuZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8ÇË@ÇËHÇËbGmodel/bert/encoder/layer_._0/attention/output/LayerNorm/batchnorm/mul_1huZUÖB
+é
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8ÅË@ÅËHÅËbGmodel/bert/encoder/layer_._2/attention/output/LayerNorm/batchnorm/add_1huZUÖB
+n
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8ÅË@ÅËHÅËb'model/bert/encoder/layer_._8/output/addhuZUÖB
+ã
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å‡@Å‡HÅ‡bFmodel/bert/encoder/layer_._9/attention/output/dropout_29/dropout/Mul_1huZUÖB
+§
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÇÄ@ÇÄHÇÄbQmodel/bert/encoder/layer_._8/attention/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+É
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å¯@Å¯HÅ¯b>model/bert/encoder/layer_._10/output/LayerNorm/batchnorm/mul_2huZUÖB
+ä
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å¯@Å¯HÅ¯bEmodel/bert/encoder/layer_._8/attention/output/LayerNorm/batchnorm/subhuZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÇË@ÇËHÇËb=model/bert/encoder/layer_._2/output/LayerNorm/batchnorm/mul_2huZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÅË@ÅËHÅËb=model/bert/encoder/layer_._0/output/LayerNorm/batchnorm/mul_2huZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÅË@ÅËHÅËb=model/bert/encoder/layer_._5/output/LayerNorm/batchnorm/mul_2huZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08ÅË@ÅËHÅËb=model/bert/encoder/layer_._8/output/LayerNorm/batchnorm/mul_2huZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç‡@Ç‡HÇ‡b=model/bert/encoder/layer_._1/output/LayerNorm/batchnorm/mul_2huZUÖB
+É
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç‡@Ç‡HÇ‡b>model/bert/encoder/layer_._11/output/LayerNorm/batchnorm/mul_2huZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç‡@Ç‡HÇ‡b=model/bert/encoder/layer_._7/output/LayerNorm/batchnorm/mul_2huZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç‡@Ç‡HÇ‡bGmodel/bert/encoder/layer_._8/attention/output/LayerNorm/batchnorm/mul_2huZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å‡@Å‡HÅ‡b=model/bert/encoder/layer_._4/output/LayerNorm/batchnorm/mul_2huZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å‡@Å‡HÅ‡b=model/bert/encoder/layer_._6/output/LayerNorm/batchnorm/mul_2huZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å‡@Å‡HÅ‡bGmodel/bert/encoder/layer_._9/attention/output/LayerNorm/batchnorm/mul_2huZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Çÿ@ÇÿHÇÿb=model/bert/encoder/layer_._3/output/LayerNorm/batchnorm/mul_2huZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Çÿ@ÇÿHÇÿbGmodel/bert/encoder/layer_._6/attention/output/LayerNorm/batchnorm/mul_2huZUÖB
+õ
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Çÿ@ÇÿHÇÿbHmodel/bert/encoder/layer_._10/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+§
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Çÿ@ÇÿHÇÿbQmodel/bert/encoder/layer_._6/attention/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+§
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Çÿ@ÇÿHÇÿbQmodel/bert/encoder/layer_._7/attention/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+Ä
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Çÿ@ÇÿHÇÿb;model/bert/encoder/layer_._8/output/LayerNorm/batchnorm/subhuZUÖB
+§
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Åÿ@ÅÿHÅÿbQmodel/bert/encoder/layer_._0/attention/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+§
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Åÿ@ÅÿHÅÿbQmodel/bert/encoder/layer_._1/attention/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+õ
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Åÿ@ÅÿHÅÿbHmodel/bert/encoder/layer_._11/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+ä
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Åÿ@ÅÿHÅÿbEmodel/bert/encoder/layer_._1/attention/output/LayerNorm/batchnorm/subhuZUÖB
+§
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08·◊@·◊H·◊bQmodel/bert/encoder/layer_._3/attention/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08¡◊@¡◊H¡◊bGmodel/bert/encoder/layer_._1/attention/output/LayerNorm/batchnorm/mul_2huZUÖB
+ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç–@Ç–HÇ–bHmodel/bert/encoder/layer_._10/attention/output/LayerNorm/batchnorm/mul_2huZUÖB
+ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç–@Ç–HÇ–bHmodel/bert/encoder/layer_._11/attention/output/LayerNorm/batchnorm/mul_2huZUÖB
+å
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç–@Ç–HÇ–b9model/bert/embeddings/LayerNorm/moments/SquaredDifferencehuZUÖB
+ä
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç–@Ç–HÇ–bEmodel/bert/encoder/layer_._0/attention/output/LayerNorm/batchnorm/subhuZUÖB
+Ä
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç–@Ç–HÇ–b;model/bert/encoder/layer_._0/output/LayerNorm/batchnorm/subhuZUÖB
+Ä
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç–@Ç–HÇ–b;model/bert/encoder/layer_._4/output/LayerNorm/batchnorm/subhuZUÖB
+Ä
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç–@Ç–HÇ–b;model/bert/encoder/layer_._6/output/LayerNorm/batchnorm/subhuZUÖB
+ä
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç–@Ç–HÇ–bEmodel/bert/encoder/layer_._9/attention/output/LayerNorm/batchnorm/subhuZUÖB
+t
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å–@Å–HÅ–b/model/bert/embeddings/LayerNorm/batchnorm/mul_2huZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å–@Å–HÅ–bGmodel/bert/encoder/layer_._0/attention/output/LayerNorm/batchnorm/mul_2huZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å–@Å–HÅ–bGmodel/bert/encoder/layer_._3/attention/output/LayerNorm/batchnorm/mul_2huZUÖB
+§
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å–@Å–HÅ–bQmodel/bert/encoder/layer_._5/attention/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+§
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å–@Å–HÅ–bQmodel/bert/encoder/layer_._9/attention/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+Ä
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å–@Å–HÅ–b;model/bert/encoder/layer_._1/output/LayerNorm/batchnorm/subhuZUÖB
+ä
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å–@Å–HÅ–bEmodel/bert/encoder/layer_._4/attention/output/LayerNorm/batchnorm/subhuZUÖB
+Ä
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å–@Å–HÅ–b;model/bert/encoder/layer_._5/output/LayerNorm/batchnorm/subhuZUÖB
+Ä
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å–@Å–HÅ–b;model/bert/encoder/layer_._9/output/LayerNorm/batchnorm/subhuZUÖB
+Å
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08‚œ@‚œH‚œb<model/bert/encoder/layer_._10/output/LayerNorm/batchnorm/subhuZUÖB
+ã
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08·œ@·œH·œbFmodel/bert/encoder/layer_._10/attention/output/LayerNorm/batchnorm/subhuZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç»@Ç»HÇ»bGmodel/bert/encoder/layer_._4/attention/output/LayerNorm/batchnorm/mul_2huZUÖB
+Ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç»@Ç»HÇ»b=model/bert/encoder/layer_._9/output/LayerNorm/batchnorm/mul_2huZUÖB
+•
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç»@Ç»HÇ»bRmodel/bert/encoder/layer_._11/attention/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+ö
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç»@Ç»HÇ»bGmodel/bert/encoder/layer_._7/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+r
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç»@Ç»HÇ»b-model/bert/embeddings/LayerNorm/batchnorm/subhuZUÖB
+ä
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç»@Ç»HÇ»bEmodel/bert/encoder/layer_._3/attention/output/LayerNorm/batchnorm/subhuZUÖB
+ä
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç»@Ç»HÇ»bEmodel/bert/encoder/layer_._5/attention/output/LayerNorm/batchnorm/subhuZUÖB
+ä
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç»@Ç»HÇ»bEmodel/bert/encoder/layer_._7/attention/output/LayerNorm/batchnorm/subhuZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å»@Å»HÅ»bGmodel/bert/encoder/layer_._2/attention/output/LayerNorm/batchnorm/mul_2huZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å»@Å»HÅ»bGmodel/bert/encoder/layer_._5/attention/output/LayerNorm/batchnorm/mul_2huZUÖB
+å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å»@Å»HÅ»bGmodel/bert/encoder/layer_._7/attention/output/LayerNorm/batchnorm/mul_2huZUÖB
+§
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å»@Å»HÅ»bQmodel/bert/encoder/layer_._2/attention/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+§
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å»@Å»HÅ»bQmodel/bert/encoder/layer_._4/attention/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+ö
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å»@Å»HÅ»bGmodel/bert/encoder/layer_._5/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+ö
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å»@Å»HÅ»bGmodel/bert/encoder/layer_._6/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+ã
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å»@Å»HÅ»bFmodel/bert/encoder/layer_._11/attention/output/LayerNorm/batchnorm/subhuZUÖB
+Å
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å»@Å»HÅ»b<model/bert/encoder/layer_._11/output/LayerNorm/batchnorm/subhuZUÖB
+Ä
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å»@Å»HÅ»b;model/bert/encoder/layer_._2/output/LayerNorm/batchnorm/subhuZUÖB
+ä
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å»@Å»HÅ»bEmodel/bert/encoder/layer_._6/attention/output/LayerNorm/batchnorm/subhuZUÖB
+Ä
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å»@Å»HÅ»b;model/bert/encoder/layer_._7/output/LayerNorm/batchnorm/subhuZUÖB
+ö
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç¿@Ç¿HÇ¿bGmodel/bert/encoder/layer_._0/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+ö
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç¿@Ç¿HÇ¿bGmodel/bert/encoder/layer_._1/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+ö
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç¿@Ç¿HÇ¿bGmodel/bert/encoder/layer_._2/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+ö
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç¿@Ç¿HÇ¿bGmodel/bert/encoder/layer_._4/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+ö
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç¿@Ç¿HÇ¿bGmodel/bert/encoder/layer_._8/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+ö
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç¿@Ç¿HÇ¿bGmodel/bert/encoder/layer_._9/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+ä
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Ç¿@Ç¿HÇ¿bEmodel/bert/encoder/layer_._2/attention/output/LayerNorm/batchnorm/subhuZUÖB
+•
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å¿@Å¿HÅ¿bRmodel/bert/encoder/layer_._10/attention/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+ö
+.SquaredDifference_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å¿@Å¿HÅ¿bGmodel/bert/encoder/layer_._3/output/LayerNorm/moments/SquaredDifferencehuZUÖB
+Ä
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å¿@Å¿HÅ¿b;model/bert/encoder/layer_._3/output/LayerNorm/batchnorm/subhuZUÖB
+é
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28‚Á@‚ÁH‚Áb9model/bert/encoder/layer_._4/attention/self/query/BiasAddhuZUÖB
+Ü
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Ç–@Ç–HÇ–b1model/bert/encoder/layer_._7/output/dense/BiasAddhuZUÖB
+å
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Çÿ
+@Çÿ
+HÇÿ
+b7model/bert/encoder/layer_._9/attention/self/key/BiasAddhuZUÖB
+å
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Å–
+@Å–
+HÅ–
+b7model/bert/encoder/layer_._4/attention/self/key/BiasAddhuZUÖB
+ê
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Ç∞
+@Ç∞
+HÇ∞
+b;model/bert/encoder/layer_._8/attention/output/dense/BiasAddhuZUÖB
+é
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Åò
+@Åò
+HÅò
+b9model/bert/encoder/layer_._9/attention/self/query/BiasAddhuZUÖB
+Ü
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Åò
+@Åò
+HÅò
+b1model/bert/encoder/layer_._9/output/dense/BiasAddhuZUÖB
+é
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Çê
+@Çê
+HÇê
+b9model/bert/encoder/layer_._6/attention/self/query/BiasAddhuZUÖB
+ê
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Åê
+@Åê
+HÅê
+b;model/bert/encoder/layer_._9/attention/output/dense/BiasAddhuZUÖB
+è
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Çà
+@Çà
+HÇà
+b:model/bert/encoder/layer_._10/attention/self/value/BiasAddhuZUÖB
+é
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Çà
+@Çà
+HÇà
+b9model/bert/encoder/layer_._2/attention/self/value/BiasAddhuZUÖB
+Ü
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Åà
+@Åà
+HÅà
+b1model/bert/encoder/layer_._0/output/dense/BiasAddhuZUÖB
+é
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Åà
+@Åà
+HÅà
+b9model/bert/encoder/layer_._1/attention/self/query/BiasAddhuZUÖB
+é
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Åà
+@Åà
+HÅà
+b9model/bert/encoder/layer_._1/attention/self/value/BiasAddhuZUÖB
+ç
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Åà
+@Åà
+HÅà
+b8model/bert/encoder/layer_._10/attention/self/key/BiasAddhuZUÖB
+é
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Åà
+@Åà
+HÅà
+b9model/bert/encoder/layer_._3/attention/self/query/BiasAddhuZUÖB
+Ü
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Åà
+@Åà
+HÅà
+b1model/bert/encoder/layer_._4/output/dense/BiasAddhuZUÖB
+Ü
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Åà
+@Åà
+HÅà
+b1model/bert/encoder/layer_._6/output/dense/BiasAddhuZUÖB
+é
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Åà
+@Åà
+HÅà
+b9model/bert/encoder/layer_._8/attention/self/query/BiasAddhuZUÖB
+Ü
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Åà
+@Åà
+HÅà
+b1model/bert/encoder/layer_._8/output/dense/BiasAddhuZUÖB
+Ü
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28·á
+@·á
+H·á
+b1model/bert/encoder/layer_._5/output/dense/BiasAddhuZUÖB
+é
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Åá
+@Åá
+HÅá
+b9model/bert/encoder/layer_._5/attention/self/value/BiasAddhuZUÖB
+ê
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÇÄ
+@ÇÄ
+HÇÄ
+b;model/bert/encoder/layer_._5/attention/output/dense/BiasAddhuZUÖB
+é
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÇÄ
+@ÇÄ
+HÇÄ
+b9model/bert/encoder/layer_._7/attention/self/query/BiasAddhuZUÖB
+ê
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÅÄ
+@ÅÄ
+HÅÄ
+b;model/bert/encoder/layer_._0/attention/output/dense/BiasAddhuZUÖB
+å
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÅÄ
+@ÅÄ
+HÅÄ
+b7model/bert/encoder/layer_._0/attention/self/key/BiasAddhuZUÖB
+é
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÅÄ
+@ÅÄ
+HÅÄ
+b9model/bert/encoder/layer_._0/attention/self/value/BiasAddhuZUÖB
+è
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÅÄ
+@ÅÄ
+HÅÄ
+b:model/bert/encoder/layer_._10/attention/self/query/BiasAddhuZUÖB
+á
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÅÄ
+@ÅÄ
+HÅÄ
+b2model/bert/encoder/layer_._10/output/dense/BiasAddhuZUÖB
+ë
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÅÄ
+@ÅÄ
+HÅÄ
+b<model/bert/encoder/layer_._11/attention/output/dense/BiasAddhuZUÖB
+ç
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÅÄ
+@ÅÄ
+HÅÄ
+b8model/bert/encoder/layer_._11/attention/self/key/BiasAddhuZUÖB
+è
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÅÄ
+@ÅÄ
+HÅÄ
+b:model/bert/encoder/layer_._11/attention/self/value/BiasAddhuZUÖB
+á
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÅÄ
+@ÅÄ
+HÅÄ
+b2model/bert/encoder/layer_._11/output/dense/BiasAddhuZUÖB
+å
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÅÄ
+@ÅÄ
+HÅÄ
+b7model/bert/encoder/layer_._2/attention/self/key/BiasAddhuZUÖB
+é
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÅÄ
+@ÅÄ
+HÅÄ
+b9model/bert/encoder/layer_._2/attention/self/query/BiasAddhuZUÖB
+Ü
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÅÄ
+@ÅÄ
+HÅÄ
+b1model/bert/encoder/layer_._2/output/dense/BiasAddhuZUÖB
+é
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÅÄ
+@ÅÄ
+HÅÄ
+b9model/bert/encoder/layer_._3/attention/self/value/BiasAddhuZUÖB
+ê
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÅÄ
+@ÅÄ
+HÅÄ
+b;model/bert/encoder/layer_._4/attention/output/dense/BiasAddhuZUÖB
+å
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÅÄ
+@ÅÄ
+HÅÄ
+b7model/bert/encoder/layer_._5/attention/self/key/BiasAddhuZUÖB
+é
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÅÄ
+@ÅÄ
+HÅÄ
+b9model/bert/encoder/layer_._5/attention/self/query/BiasAddhuZUÖB
+ê
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÅÄ
+@ÅÄ
+HÅÄ
+b;model/bert/encoder/layer_._7/attention/output/dense/BiasAddhuZUÖB
+å
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÅÄ
+@ÅÄ
+HÅÄ
+b7model/bert/encoder/layer_._7/attention/self/key/BiasAddhuZUÖB
+é
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÅÄ
+@ÅÄ
+HÅÄ
+b9model/bert/encoder/layer_._8/attention/self/value/BiasAddhuZUÖB
+é
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28ÅÄ
+@ÅÄ
+HÅÄ
+b9model/bert/encoder/layer_._9/attention/self/value/BiasAddhuZUÖB
+å
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28°ˇ	@°ˇ	H°ˇ	b7model/bert/encoder/layer_._6/attention/self/key/BiasAddhuZUÖB
+é
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Ç¯	@Ç¯	HÇ¯	b9model/bert/encoder/layer_._0/attention/self/query/BiasAddhuZUÖB
+è
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Ç¯	@Ç¯	HÇ¯	b:model/bert/encoder/layer_._11/attention/self/query/BiasAddhuZUÖB
+ê
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Ç¯	@Ç¯	HÇ¯	b;model/bert/encoder/layer_._3/attention/output/dense/BiasAddhuZUÖB
+ë
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Å¯	@Å¯	HÅ¯	b<model/bert/encoder/layer_._10/attention/output/dense/BiasAddhuZUÖB
+å
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Å¯	@Å¯	HÅ¯	b7model/bert/encoder/layer_._3/attention/self/key/BiasAddhuZUÖB
+Ü
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Å¯	@Å¯	HÅ¯	b1model/bert/encoder/layer_._3/output/dense/BiasAddhuZUÖB
+é
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Å¯	@Å¯	HÅ¯	b9model/bert/encoder/layer_._4/attention/self/value/BiasAddhuZUÖB
+ê
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Å¯	@Å¯	HÅ¯	b;model/bert/encoder/layer_._6/attention/output/dense/BiasAddhuZUÖB
+é
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Å¯	@Å¯	HÅ¯	b9model/bert/encoder/layer_._6/attention/self/value/BiasAddhuZUÖB
+é
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Å¯	@Å¯	HÅ¯	b9model/bert/encoder/layer_._7/attention/self/value/BiasAddhuZUÖB
+å
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Å¯	@Å¯	HÅ¯	b7model/bert/encoder/layer_._8/attention/self/key/BiasAddhuZUÖB
+ê
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28¢˜	@¢˜	H¢˜	b;model/bert/encoder/layer_._1/attention/output/dense/BiasAddhuZUÖB
+å
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Ç	@Ç	HÇ	b7model/bert/encoder/layer_._1/attention/self/key/BiasAddhuZUÖB
+Ü
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Å	@Å	HÅ	b1model/bert/encoder/layer_._1/output/dense/BiasAddhuZUÖB
+ê
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Å	@Å	HÅ	b;model/bert/encoder/layer_._2/attention/output/dense/BiasAddhuZUÖB
+ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å»	@Å»	HÅ»	bEmodel/bert/encoder/layer_._8/attention/output/LayerNorm/batchnorm/mulhuZUÖB
+~
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Ç∞	@Ç∞	HÇ∞	b9model/bert/encoder/layer_._0/output/dropout_3/dropout/MulhuZUÖB
+n
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å∞	@Å∞	HÅ∞	b)model/bert/embeddings/dropout/dropout/MulhuZUÖB
+~
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å∞	@Å∞	HÅ∞	b9model/bert/encoder/layer_._1/output/dropout_6/dropout/MulhuZUÖB
+ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å∞	@Å∞	HÅ∞	bEmodel/bert/encoder/layer_._10/attention/output/dropout_32/dropout/MulhuZUÖB
+Ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å∞	@Å∞	HÅ∞	b;model/bert/encoder/layer_._10/output/dropout_33/dropout/MulhuZUÖB
+ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å∞	@Å∞	HÅ∞	bEmodel/bert/encoder/layer_._11/attention/output/dropout_35/dropout/MulhuZUÖB
+Ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å∞	@Å∞	HÅ∞	b;model/bert/encoder/layer_._11/output/dropout_36/dropout/MulhuZUÖB
+à
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å∞	@Å∞	HÅ∞	bCmodel/bert/encoder/layer_._2/attention/output/dropout_8/dropout/MulhuZUÖB
+~
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å∞	@Å∞	HÅ∞	b9model/bert/encoder/layer_._2/output/dropout_9/dropout/MulhuZUÖB
+â
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å∞	@Å∞	HÅ∞	bDmodel/bert/encoder/layer_._3/attention/output/dropout_11/dropout/MulhuZUÖB
+
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å∞	@Å∞	HÅ∞	b:model/bert/encoder/layer_._3/output/dropout_12/dropout/MulhuZUÖB
+â
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å∞	@Å∞	HÅ∞	bDmodel/bert/encoder/layer_._4/attention/output/dropout_14/dropout/MulhuZUÖB
+
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å∞	@Å∞	HÅ∞	b:model/bert/encoder/layer_._4/output/dropout_15/dropout/MulhuZUÖB
+
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å∞	@Å∞	HÅ∞	b:model/bert/encoder/layer_._5/output/dropout_18/dropout/MulhuZUÖB
+â
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å∞	@Å∞	HÅ∞	bDmodel/bert/encoder/layer_._6/attention/output/dropout_20/dropout/MulhuZUÖB
+
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å∞	@Å∞	HÅ∞	b:model/bert/encoder/layer_._6/output/dropout_21/dropout/MulhuZUÖB
+â
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å∞	@Å∞	HÅ∞	bDmodel/bert/encoder/layer_._7/attention/output/dropout_23/dropout/MulhuZUÖB
+
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å∞	@Å∞	HÅ∞	b:model/bert/encoder/layer_._7/output/dropout_24/dropout/MulhuZUÖB
+â
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å∞	@Å∞	HÅ∞	bDmodel/bert/encoder/layer_._8/attention/output/dropout_26/dropout/MulhuZUÖB
+
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å∞	@Å∞	HÅ∞	b:model/bert/encoder/layer_._8/output/dropout_27/dropout/MulhuZUÖB
+â
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å∞	@Å∞	HÅ∞	bDmodel/bert/encoder/layer_._9/attention/output/dropout_29/dropout/MulhuZUÖB
+
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å∞	@Å∞	HÅ∞	b:model/bert/encoder/layer_._9/output/dropout_30/dropout/MulhuZUÖB
+Å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å∞	@Å∞	HÅ∞	b<model/bert/encoder/layer_._10/output/LayerNorm/batchnorm/mulhuZUÖB
+à
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å®	@Å®	HÅ®	bCmodel/bert/encoder/layer_._0/attention/output/dropout_2/dropout/MulhuZUÖB
+à
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å®	@Å®	HÅ®	bCmodel/bert/encoder/layer_._1/attention/output/dropout_5/dropout/MulhuZUÖB
+â
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä8Å®	@Å®	HÅ®	bDmodel/bert/encoder/layer_._5/attention/output/dropout_17/dropout/MulhuZUÖB
+Å
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å®	@Å®	HÅ®	b<model/bert/encoder/layer_._11/output/LayerNorm/batchnorm/mulhuZUÖB
+ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å†	@Å†	HÅ†	bEmodel/bert/encoder/layer_._0/attention/output/LayerNorm/batchnorm/mulhuZUÖB
+Ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å†	@Å†	HÅ†	b;model/bert/encoder/layer_._0/output/LayerNorm/batchnorm/mulhuZUÖB
+Ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å†	@Å†	HÅ†	b;model/bert/encoder/layer_._1/output/LayerNorm/batchnorm/mulhuZUÖB
+ã
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å†	@Å†	HÅ†	bFmodel/bert/encoder/layer_._11/attention/output/LayerNorm/batchnorm/mulhuZUÖB
+ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å†	@Å†	HÅ†	bEmodel/bert/encoder/layer_._2/attention/output/LayerNorm/batchnorm/mulhuZUÖB
+Ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å†	@Å†	HÅ†	b;model/bert/encoder/layer_._2/output/LayerNorm/batchnorm/mulhuZUÖB
+ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å†	@Å†	HÅ†	bEmodel/bert/encoder/layer_._4/attention/output/LayerNorm/batchnorm/mulhuZUÖB
+Ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å†	@Å†	HÅ†	b;model/bert/encoder/layer_._4/output/LayerNorm/batchnorm/mulhuZUÖB
+ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å†	@Å†	HÅ†	bEmodel/bert/encoder/layer_._6/attention/output/LayerNorm/batchnorm/mulhuZUÖB
+Ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å†	@Å†	HÅ†	b;model/bert/encoder/layer_._6/output/LayerNorm/batchnorm/mulhuZUÖB
+ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å†	@Å†	HÅ†	bEmodel/bert/encoder/layer_._7/attention/output/LayerNorm/batchnorm/mulhuZUÖB
+Ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å†	@Å†	HÅ†	b;model/bert/encoder/layer_._7/output/LayerNorm/batchnorm/mulhuZUÖB
+Ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å†	@Å†	HÅ†	b;model/bert/encoder/layer_._8/output/LayerNorm/batchnorm/mulhuZUÖB
+ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Å†	@Å†	HÅ†	bEmodel/bert/encoder/layer_._9/attention/output/LayerNorm/batchnorm/mulhuZUÖB
+r
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Åò	@Åò	HÅò	b-model/bert/embeddings/LayerNorm/batchnorm/mulhuZUÖB
+ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Åò	@Åò	HÅò	bEmodel/bert/encoder/layer_._1/attention/output/LayerNorm/batchnorm/mulhuZUÖB
+ã
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Åò	@Åò	HÅò	bFmodel/bert/encoder/layer_._10/attention/output/LayerNorm/batchnorm/mulhuZUÖB
+ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Åò	@Åò	HÅò	bEmodel/bert/encoder/layer_._3/attention/output/LayerNorm/batchnorm/mulhuZUÖB
+Ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Åò	@Åò	HÅò	b;model/bert/encoder/layer_._3/output/LayerNorm/batchnorm/mulhuZUÖB
+ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Åò	@Åò	HÅò	bEmodel/bert/encoder/layer_._5/attention/output/LayerNorm/batchnorm/mulhuZUÖB
+Ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Åò	@Åò	HÅò	b;model/bert/encoder/layer_._5/output/LayerNorm/batchnorm/mulhuZUÖB
+Ä
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä2Ä08Åò	@Åò	HÅò	b;model/bert/encoder/layer_._9/output/LayerNorm/batchnorm/mulhuZUÖB
+Å
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Å¯@Å¯HÅ¯b;model/bert/encoder/layer_._7/output/dropout_24/dropout/Casthu  »B
+Ç
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8°◊@°◊H°◊b<model/bert/encoder/layer_._10/output/dropout_33/dropout/Casthu  »B
+∂
+˜_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_20TensorBroadcastingOpIKNS_5arrayIiLy3EEEKNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_ *Ä2*8Å®@Å®HÅ®bmodel/bert/embeddings/TilehuZUÖB
+ã
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Å–@Å–HÅ–bEmodel/bert/encoder/layer_._4/attention/output/dropout_14/dropout/Casthu  »B
+Ä
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Å∏@Å∏HÅ∏b:model/bert/encoder/layer_._1/output/dropout_6/dropout/Casthu  »B
+Ç
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Å∏@Å∏HÅ∏b<model/bert/encoder/layer_._11/output/dropout_36/dropout/Casthu  »B
+ä
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Å∏@Å∏HÅ∏bDmodel/bert/encoder/layer_._2/attention/output/dropout_8/dropout/Casthu  »B
+ã
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Å∏@Å∏HÅ∏bEmodel/bert/encoder/layer_._3/attention/output/dropout_11/dropout/Casthu  »B
+Å
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Å∏@Å∏HÅ∏b;model/bert/encoder/layer_._3/output/dropout_12/dropout/Casthu  »B
+Å
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Å∏@Å∏HÅ∏b;model/bert/encoder/layer_._5/output/dropout_18/dropout/Casthu  »B
+ã
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Å∏@Å∏HÅ∏bEmodel/bert/encoder/layer_._6/attention/output/dropout_20/dropout/Casthu  »B
+Å
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Å∏@Å∏HÅ∏b;model/bert/encoder/layer_._6/output/dropout_21/dropout/Casthu  »B
+ã
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Å∏@Å∏HÅ∏bEmodel/bert/encoder/layer_._8/attention/output/dropout_26/dropout/Casthu  »B
+p
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Ä∏@Ä∏HÄ∏b*model/bert/embeddings/dropout/dropout/Casthu  »B
+å
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Ä∏@Ä∏HÄ∏bFmodel/bert/encoder/layer_._10/attention/output/dropout_32/dropout/Casthu  »B
+Å
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8‡∑@‡∑H‡∑b;model/bert/encoder/layer_._4/output/dropout_15/dropout/Casthu  »B
+ä
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8°∑@°∑H°∑bDmodel/bert/encoder/layer_._1/attention/output/dropout_5/dropout/Casthu  »B
+ä
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Å∞@Å∞HÅ∞bDmodel/bert/encoder/layer_._0/attention/output/dropout_2/dropout/Casthu  »B
+Ä
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Å∞@Å∞HÅ∞b:model/bert/encoder/layer_._0/output/dropout_3/dropout/Casthu  »B
+å
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Å∞@Å∞HÅ∞bFmodel/bert/encoder/layer_._11/attention/output/dropout_35/dropout/Casthu  »B
+Ä
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Å∞@Å∞HÅ∞b:model/bert/encoder/layer_._2/output/dropout_9/dropout/Casthu  »B
+ã
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Å∞@Å∞HÅ∞bEmodel/bert/encoder/layer_._7/attention/output/dropout_23/dropout/Casthu  »B
+Å
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Å∞@Å∞HÅ∞b;model/bert/encoder/layer_._8/output/dropout_27/dropout/Casthu  »B
+ã
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Å∞@Å∞HÅ∞bEmodel/bert/encoder/layer_._9/attention/output/dropout_29/dropout/Casthu  »B
+Å
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Å∞@Å∞HÅ∞b;model/bert/encoder/layer_._9/output/dropout_30/dropout/Casthu  »B
+ã
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä2Ä¿8Ä∞@Ä∞HÄ∞bEmodel/bert/encoder/layer_._5/attention/output/dropout_17/dropout/Casthu  »B
+
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8Å@ÅHÅb2model/bert/embeddings/dropout/dropout/GreaterEqualhuZUÖB
+ô
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8Å@ÅHÅbLmodel/bert/encoder/layer_._0/attention/output/dropout_2/dropout/GreaterEqualhuZUÖB
+õ
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8Å@ÅHÅbNmodel/bert/encoder/layer_._10/attention/output/dropout_32/dropout/GreaterEqualhuZUÖB
+ë
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8Å@ÅHÅbDmodel/bert/encoder/layer_._11/output/dropout_36/dropout/GreaterEqualhuZUÖB
+ö
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8Å@ÅHÅbMmodel/bert/encoder/layer_._4/attention/output/dropout_14/dropout/GreaterEqualhuZUÖB
+ê
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8Å@ÅHÅbCmodel/bert/encoder/layer_._5/output/dropout_18/dropout/GreaterEqualhuZUÖB
+ö
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8Å@ÅHÅbMmodel/bert/encoder/layer_._6/attention/output/dropout_20/dropout/GreaterEqualhuZUÖB
+ê
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8Å@ÅHÅbCmodel/bert/encoder/layer_._6/output/dropout_21/dropout/GreaterEqualhuZUÖB
+è
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8Ä@ÄHÄbBmodel/bert/encoder/layer_._0/output/dropout_3/dropout/GreaterEqualhuZUÖB
+ô
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8Ä@ÄHÄbLmodel/bert/encoder/layer_._1/attention/output/dropout_5/dropout/GreaterEqualhuZUÖB
+ö
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8Ä@ÄHÄbMmodel/bert/encoder/layer_._3/attention/output/dropout_11/dropout/GreaterEqualhuZUÖB
+ö
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8Ä@ÄHÄbMmodel/bert/encoder/layer_._7/attention/output/dropout_23/dropout/GreaterEqualhuZUÖB
+ê
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8·Ô@·ÔH·ÔbCmodel/bert/encoder/layer_._7/output/dropout_24/dropout/GreaterEqualhuZUÖB
+ê
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8°Ô@°ÔH°ÔbCmodel/bert/encoder/layer_._9/output/dropout_30/dropout/GreaterEqualhuZUÖB
+õ
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8ÅË@ÅËHÅËbNmodel/bert/encoder/layer_._11/attention/output/dropout_35/dropout/GreaterEqualhuZUÖB
+ô
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8ÅË@ÅËHÅËbLmodel/bert/encoder/layer_._2/attention/output/dropout_8/dropout/GreaterEqualhuZUÖB
+è
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8ÅË@ÅËHÅËbBmodel/bert/encoder/layer_._2/output/dropout_9/dropout/GreaterEqualhuZUÖB
+ê
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8ÅË@ÅËHÅËbCmodel/bert/encoder/layer_._4/output/dropout_15/dropout/GreaterEqualhuZUÖB
+ö
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8ÅË@ÅËHÅËbMmodel/bert/encoder/layer_._5/attention/output/dropout_17/dropout/GreaterEqualhuZUÖB
+ö
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8ÅË@ÅËHÅËbMmodel/bert/encoder/layer_._8/attention/output/dropout_26/dropout/GreaterEqualhuZUÖB
+ö
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8ÅË@ÅËHÅËbMmodel/bert/encoder/layer_._9/attention/output/dropout_29/dropout/GreaterEqualhuZUÖB
+è
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8ÄË@ÄËHÄËbBmodel/bert/encoder/layer_._1/output/dropout_6/dropout/GreaterEqualhuZUÖB
+ë
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8ÄË@ÄËHÄËbDmodel/bert/encoder/layer_._10/output/dropout_33/dropout/GreaterEqualhuZUÖB
+ê
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8ÄË@ÄËHÄËbCmodel/bert/encoder/layer_._3/output/dropout_12/dropout/GreaterEqualhuZUÖB
+ê
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä2Ä8ÄË@ÄËHÄËbCmodel/bert/encoder/layer_._8/output/dropout_27/dropout/GreaterEqualhuZUÖB
+å
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8¿è@¿èH¿èbSmodel/bert/encoder/layer_._9/output/dropout_30/dropout/random_uniform/RandomUniformhuZUÖB
+ì
+S_ZN10tensorflow14GatherOpKernelINS_13AlignedVectorIfLi4EEEiLb1EEEvPKT_PKT0_PS3_xxxx*Ä288Åà@ÅàHÅàbmodel/bert/embeddings/Gatherhu  »B
+ñ
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8Åà@ÅàHÅàb]model/bert/encoder/layer_._3/attention/output/dropout_11/dropout/random_uniform/RandomUniformhuZUÖB
+ñ
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8Åà@ÅàHÅàb]model/bert/encoder/layer_._5/attention/output/dropout_17/dropout/random_uniform/RandomUniformhuZUÖB
+å
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8Åà@ÅàHÅàbSmodel/bert/encoder/layer_._5/output/dropout_18/dropout/random_uniform/RandomUniformhuZUÖB
+ñ
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8Åà@ÅàHÅàb]model/bert/encoder/layer_._6/attention/output/dropout_20/dropout/random_uniform/RandomUniformhuZUÖB
+å
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8Åà@ÅàHÅàbSmodel/bert/encoder/layer_._6/output/dropout_21/dropout/random_uniform/RandomUniformhuZUÖB
+ñ
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8Åà@ÅàHÅàb]model/bert/encoder/layer_._7/attention/output/dropout_23/dropout/random_uniform/RandomUniformhuZUÖB
+å
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8Åà@ÅàHÅàbSmodel/bert/encoder/layer_._7/output/dropout_24/dropout/random_uniform/RandomUniformhuZUÖB
+ˇ
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Äà@ÄàHÄàb:model/bert/encoder/layer_._1/output/LayerNorm/moments/meanhu  »B
+ï
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8Äà@ÄàHÄàb\model/bert/encoder/layer_._0/attention/output/dropout_2/dropout/random_uniform/RandomUniformhuZUÖB
+ï
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8Äà@ÄàHÄàb\model/bert/encoder/layer_._2/attention/output/dropout_8/dropout/random_uniform/RandomUniformhuZUÖB
+ã
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8ÅÄ@ÅÄHÅÄbRmodel/bert/encoder/layer_._0/output/dropout_3/dropout/random_uniform/RandomUniformhuZUÖB
+ã
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8ÅÄ@ÅÄHÅÄbRmodel/bert/encoder/layer_._1/output/dropout_6/dropout/random_uniform/RandomUniformhuZUÖB
+ó
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8ÅÄ@ÅÄHÅÄb^model/bert/encoder/layer_._11/attention/output/dropout_35/dropout/random_uniform/RandomUniformhuZUÖB
+å
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8ÅÄ@ÅÄHÅÄbSmodel/bert/encoder/layer_._3/output/dropout_12/dropout/random_uniform/RandomUniformhuZUÖB
+ñ
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8ÅÄ@ÅÄHÅÄb]model/bert/encoder/layer_._8/attention/output/dropout_26/dropout/random_uniform/RandomUniformhuZUÖB
+ñ
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8ÅÄ@ÅÄHÅÄb]model/bert/encoder/layer_._9/attention/output/dropout_29/dropout/random_uniform/RandomUniformhuZUÖB
+˚
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8ÄÄ@ÄÄHÄÄbBmodel/bert/embeddings/dropout/dropout/random_uniform/RandomUniformhuZUÖB
+ó
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8ÄÄ@ÄÄHÄÄb^model/bert/encoder/layer_._10/attention/output/dropout_32/dropout/random_uniform/RandomUniformhuZUÖB
+ç
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8ÄÄ@ÄÄHÄÄbTmodel/bert/encoder/layer_._10/output/dropout_33/dropout/random_uniform/RandomUniformhuZUÖB
+ç
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8ÄÄ@ÄÄHÄÄbTmodel/bert/encoder/layer_._11/output/dropout_36/dropout/random_uniform/RandomUniformhuZUÖB
+ã
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8ÄÄ@ÄÄHÄÄbRmodel/bert/encoder/layer_._2/output/dropout_9/dropout/random_uniform/RandomUniformhuZUÖB
+ı
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å¯@Å¯HÅ¯b0model/bert/embeddings/LayerNorm/moments/variancehu  »B
+ç
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å¯@Å¯HÅ¯bHmodel/bert/encoder/layer_._0/attention/output/LayerNorm/moments/variancehu  »B
+ç
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å¯@Å¯HÅ¯bHmodel/bert/encoder/layer_._1/attention/output/LayerNorm/moments/variancehu  »B
+Ä
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å¯@Å¯HÅ¯b;model/bert/encoder/layer_._11/output/LayerNorm/moments/meanhu  »B
+Ñ
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å¯@Å¯HÅ¯b?model/bert/encoder/layer_._11/output/LayerNorm/moments/variancehu  »B
+â
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å¯@Å¯HÅ¯bDmodel/bert/encoder/layer_._2/attention/output/LayerNorm/moments/meanhu  »B
+ç
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å¯@Å¯HÅ¯bHmodel/bert/encoder/layer_._2/attention/output/LayerNorm/moments/variancehu  »B
+É
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å¯@Å¯HÅ¯b>model/bert/encoder/layer_._3/output/LayerNorm/moments/variancehu  »B
+ˇ
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å¯@Å¯HÅ¯b:model/bert/encoder/layer_._4/output/LayerNorm/moments/meanhu  »B
+â
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å¯@Å¯HÅ¯bDmodel/bert/encoder/layer_._5/attention/output/LayerNorm/moments/meanhu  »B
+ç
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å¯@Å¯HÅ¯bHmodel/bert/encoder/layer_._5/attention/output/LayerNorm/moments/variancehu  »B
+É
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å¯@Å¯HÅ¯b>model/bert/encoder/layer_._5/output/LayerNorm/moments/variancehu  »B
+â
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å¯@Å¯HÅ¯bDmodel/bert/encoder/layer_._7/attention/output/LayerNorm/moments/meanhu  »B
+É
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å¯@Å¯HÅ¯b>model/bert/encoder/layer_._7/output/LayerNorm/moments/variancehu  »B
+ç
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å¯@Å¯HÅ¯bHmodel/bert/encoder/layer_._8/attention/output/LayerNorm/moments/variancehu  »B
+ˇ
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å¯@Å¯HÅ¯b:model/bert/encoder/layer_._8/output/LayerNorm/moments/meanhu  »B
+â
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å¯@Å¯HÅ¯bDmodel/bert/encoder/layer_._9/attention/output/LayerNorm/moments/meanhu  »B
+É
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å¯@Å¯HÅ¯b>model/bert/encoder/layer_._9/output/LayerNorm/moments/variancehu  »B
+ï
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8Å¯@Å¯HÅ¯b\model/bert/encoder/layer_._1/attention/output/dropout_5/dropout/random_uniform/RandomUniformhuZUÖB
+ñ
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8Å¯@Å¯HÅ¯b]model/bert/encoder/layer_._4/attention/output/dropout_14/dropout/random_uniform/RandomUniformhuZUÖB
+å
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8Å¯@Å¯HÅ¯bSmodel/bert/encoder/layer_._8/output/dropout_27/dropout/random_uniform/RandomUniformhuZUÖB
+ˇ
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Ä¯@Ä¯HÄ¯b:model/bert/encoder/layer_._0/output/LayerNorm/moments/meanhu  »B
+É
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Ä¯@Ä¯HÄ¯b>model/bert/encoder/layer_._1/output/LayerNorm/moments/variancehu  »B
+Ñ
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Ä¯@Ä¯HÄ¯b?model/bert/encoder/layer_._10/output/LayerNorm/moments/variancehu  »B
+ä
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Ä¯@Ä¯HÄ¯bEmodel/bert/encoder/layer_._11/attention/output/LayerNorm/moments/meanhu  »B
+É
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Ä¯@Ä¯HÄ¯b>model/bert/encoder/layer_._2/output/LayerNorm/moments/variancehu  »B
+â
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Ä¯@Ä¯HÄ¯bDmodel/bert/encoder/layer_._4/attention/output/LayerNorm/moments/meanhu  »B
+É
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Ä¯@Ä¯HÄ¯b>model/bert/encoder/layer_._4/output/LayerNorm/moments/variancehu  »B
+ç
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Ä¯@Ä¯HÄ¯bHmodel/bert/encoder/layer_._6/attention/output/LayerNorm/moments/variancehu  »B
+É
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Ä¯@Ä¯HÄ¯b>model/bert/encoder/layer_._6/output/LayerNorm/moments/variancehu  »B
+ç
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Ä¯@Ä¯HÄ¯bHmodel/bert/encoder/layer_._7/attention/output/LayerNorm/moments/variancehu  »B
+â
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Ä¯@Ä¯HÄ¯bDmodel/bert/encoder/layer_._8/attention/output/LayerNorm/moments/meanhu  »B
+ç
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Ä¯@Ä¯HÄ¯bHmodel/bert/encoder/layer_._9/attention/output/LayerNorm/moments/variancehu  »B
+ˇ
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Ä¯@Ä¯HÄ¯b:model/bert/encoder/layer_._9/output/LayerNorm/moments/meanhu  »B
+å
+î_ZN10tensorflow7functor28FillPhiloxRandomKernelLaunchINS_6random19UniformDistributionINS2_12PhiloxRandomEfEEEEvPKyS7_S4_PNT_17ResultElementTypeExS8_*Ä2*8Ä¯@Ä¯HÄ¯bSmodel/bert/encoder/layer_._4/output/dropout_15/dropout/random_uniform/RandomUniformhuZUÖB
+é
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8·˜@·˜H·˜bImodel/bert/encoder/layer_._10/attention/output/LayerNorm/moments/variancehu  »B
+ç
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8·˜@·˜H·˜bHmodel/bert/encoder/layer_._4/attention/output/LayerNorm/moments/variancehu  »B
+É
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8‡˜@‡˜H‡˜b>model/bert/encoder/layer_._0/output/LayerNorm/moments/variancehu  »B
+É
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8¡˜@¡˜H¡˜b>model/bert/encoder/layer_._8/output/LayerNorm/moments/variancehu  »B
+ˇ
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å˜@Å˜HÅ˜b:model/bert/encoder/layer_._5/output/LayerNorm/moments/meanhu  »B
+â
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å@ÅHÅbDmodel/bert/encoder/layer_._1/attention/output/LayerNorm/moments/meanhu  »B
+Ä
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å@ÅHÅb;model/bert/encoder/layer_._10/output/LayerNorm/moments/meanhu  »B
+é
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å@ÅHÅbImodel/bert/encoder/layer_._11/attention/output/LayerNorm/moments/variancehu  »B
+â
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å@ÅHÅbDmodel/bert/encoder/layer_._3/attention/output/LayerNorm/moments/meanhu  »B
+ç
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å@ÅHÅbHmodel/bert/encoder/layer_._3/attention/output/LayerNorm/moments/variancehu  »B
+ˇ
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Å@ÅHÅb:model/bert/encoder/layer_._6/output/LayerNorm/moments/meanhu  »B
+ï
+S_ZN10tensorflow14GatherOpKernelINS_13AlignedVectorIfLi4EEEiLb1EEEvPKT_PKT0_PS3_xxxx*Ä288Ä@ÄHÄbmodel/bert/embeddings/Gather_2hu  »B
+Ò
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Ä@ÄHÄb,model/bert/embeddings/LayerNorm/moments/meanhu  »B
+â
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Ä@ÄHÄbDmodel/bert/encoder/layer_._0/attention/output/LayerNorm/moments/meanhu  »B
+ä
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Ä@ÄHÄbEmodel/bert/encoder/layer_._10/attention/output/LayerNorm/moments/meanhu  »B
+ˇ
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Ä@ÄHÄb:model/bert/encoder/layer_._2/output/LayerNorm/moments/meanhu  »B
+ˇ
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Ä@ÄHÄb:model/bert/encoder/layer_._3/output/LayerNorm/moments/meanhu  »B
+â
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Ä@ÄHÄbDmodel/bert/encoder/layer_._6/attention/output/LayerNorm/moments/meanhu  »B
+ˇ
+ü_ZN10tensorflow7functor15RowReduceKernelIPfNS_23TransformOutputIteratorIffNS0_9DividesByIffEExEENS0_3SumIfEEEEvT_T0_iiT1_NSt15iterator_traitsIS9_E10value_typeE*Ä2Ä8Ä@ÄHÄb:model/bert/encoder/layer_._7/output/LayerNorm/moments/meanhu  »B
+ï
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b *Ä28Å∞@Å∞HÅ∞b"Adam/Adam/update/ResourceApplyAdamhuZUÖB
+Å
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä∏@Ä∏HÄ∏b;model/bert/encoder/layer_._8/output/LayerNorm/batchnorm/addhuZUÖB
+é
+U_ZN7cutlass6KernelI50cutlass_80_tensorop_s1688gemm_64x64_16x6_nn_align4EEvNT_6ParamsE^ ÄÄ*Ä28Äx@ÄxHÄxXbmodel/dense/MatMulhugUÖA
+ô
+V_ZN7cutlass6KernelI51cutlass_80_tensorop_s1688gemm_256x64_16x4_nt_align4EEvNT_6ParamsE‰ ÄÄ*Ä208Äx@ÄxHÄxb"gradient_tape/model/dense/MatMul_1h
+ö
+U_ZN7cutlass6KernelI50cutlass_80_tensorop_s1688gemm_64x64_16x6_nn_align4EEvNT_6ParamsE^ ÄÄ*Ä28Äp@ÄpHÄpXbmodel/bert/pooler/dense/MatMulhugUÖA
+†
+ƒ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_17TensorReductionOpINS0_10SumReducerIfEEKNS_9IndexListINS_10type2indexILx1EEEJEEEKNS_18TensorForcedEvalOpIKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIKfSK_EEKNS_20TensorBroadcastingOpIKNS_5arrayIxLy2EEEKNS4_INS5_ISK_Li2ELi1ExEELi16ES7_EEEEKNSI_INS0_20scalar_difference_opIffEEKNSM_IKNSC_ISE_JiEEEKNSH_IKNS_18TensorCwiseUnaryOpINS0_13scalar_log_opIfEEKNS4_INS5_IfLi2ELi1ExEELi16ES7_EEEEEEEES14_EEEEEES7_EEEENS_9GpuDeviceEEExEEvT_T0_2*Ä28Äh@ÄhHÄhb:categorical_crossentropy/softmax_cross_entropy_with_logitshuZUÖB
+í
+S_ZN10tensorflow14GatherOpKernelINS_13AlignedVectorIfLi4EEEiLb1EEEvPKT_PKT0_PS3_xxxx*Ä288Ä`@Ä`HÄ`bmodel/bert/embeddings/Gather_1hu  »B
+ê
+U_ZN7cutlass6KernelI50cutlass_80_tensorop_s1688gemm_64x64_16x6_nn_align1EEvNT_6ParamsE` ÄÄ*Ä2	8ÄH@ÄHHÄHXbmodel/outputs/MatMulhugUÖA
+’
+˘_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_17TensorReshapingOpIKNS_9IndexListIiJEEENS_9TensorMapINS_6TensorIfLi2ELi1ExEELi16ENS_11MakePointerEEEEEKNS_17TensorReductionOpINS0_10MaxReducerIfLi0EEEKNS5_INS_10type2indexILx1EEEJEEEKNS_20TensorBroadcastingOpIKNS_5arrayIxLy2EEEKNS8_INS9_IKfLi2ELi1ExEELi16ESB_EEEESB_EEEENS_9GpuDeviceEEExEEvT_T0_@*Ä28Ä8@Ä8HÄ8b:categorical_crossentropy/softmax_cross_entropy_with_logitshuZUÖB
+∂
+⁄_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_17TensorReshapingOpIKNS_9IndexListIiJEEENS_9TensorMapINS_6TensorIfLi2ELi1ExEELi16ENS_11MakePointerEEEEEKNS_17TensorReductionOpINS0_10SumReducerIfEEKNS5_INS_10type2indexILx1EEEJEEEKNS_18TensorCwiseUnaryOpINS0_13scalar_exp_opIfEEKSC_EESB_EEEENS_9GpuDeviceEEExEEvT_T0_/*Ä28Ä0@Ä0HÄ0b:categorical_crossentropy/softmax_cross_entropy_with_logitshuZUÖB
+P
+%LogicalAnd_GPU_DT_BOOL_DT_BOOL_kernel*Ä28¿/@¿HÄb
+LogicalAndhuZUÖB
+û
+U_ZN7cutlass6KernelI50cutlass_80_tensorop_s1688gemm_64x64_16x6_nt_align1EEvNT_6ParamsE\ ÄÄ*Ä28Ä(@Ä(HÄ(b$gradient_tape/model/outputs/MatMul_1hugUÖA
+û
+U_ZN7cutlass6KernelI50cutlass_80_tensorop_s1688gemm_64x64_16x6_tn_align1EEvNT_6ParamsE` ÄÄ*Ä28Ä(@Ä(HÄ(Xb"gradient_tape/model/outputs/MatMulhugUÖA
+â
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä @Ä HÄ bFmodel/bert/encoder/layer_._10/attention/output/LayerNorm/batchnorm/addhuZUÖB
+
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä @Ä HÄ b<model/bert/encoder/layer_._11/output/LayerNorm/batchnorm/addhuZUÖB
+à
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä @Ä HÄ bEmodel/bert/encoder/layer_._9/attention/output/LayerNorm/batchnorm/addhuZUÖB
+~
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä @Ä HÄ b;model/bert/encoder/layer_._9/output/LayerNorm/batchnorm/addhuZUÖB
+ã
+:_ZN10tensorflow26BiasGradNHWC_SharedAtomicsIfEEviPKT_PS1_i Ä *Ä28Ä @Ä HÄ b-gradient_tape/model/dense/BiasAdd/BiasAddGradhuZUÖB
+î
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b *Ä28Ä @Ä HÄ b$Adam/Adam/update_1/ResourceApplyAdamhuZUÖB
+î
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b *Ä28Ä @Ä HÄ b$Adam/Adam/update_2/ResourceApplyAdamhuZUÖB
+à
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbEmodel/bert/encoder/layer_._0/attention/output/LayerNorm/batchnorm/addhuZUÖB
+~
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄb;model/bert/encoder/layer_._0/output/LayerNorm/batchnorm/addhuZUÖB
+à
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbEmodel/bert/encoder/layer_._1/attention/output/LayerNorm/batchnorm/addhuZUÖB
+~
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄb;model/bert/encoder/layer_._1/output/LayerNorm/batchnorm/addhuZUÖB
+â
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbFmodel/bert/encoder/layer_._11/attention/output/LayerNorm/batchnorm/addhuZUÖB
+à
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbEmodel/bert/encoder/layer_._2/attention/output/LayerNorm/batchnorm/addhuZUÖB
+~
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄb;model/bert/encoder/layer_._2/output/LayerNorm/batchnorm/addhuZUÖB
+à
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbEmodel/bert/encoder/layer_._3/attention/output/LayerNorm/batchnorm/addhuZUÖB
+à
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbEmodel/bert/encoder/layer_._4/attention/output/LayerNorm/batchnorm/addhuZUÖB
+à
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbEmodel/bert/encoder/layer_._5/attention/output/LayerNorm/batchnorm/addhuZUÖB
+~
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄb;model/bert/encoder/layer_._5/output/LayerNorm/batchnorm/addhuZUÖB
+~
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄb;model/bert/encoder/layer_._7/output/LayerNorm/batchnorm/addhuZUÖB
+à
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbEmodel/bert/encoder/layer_._8/attention/output/LayerNorm/batchnorm/addhuZUÖB
+Q
+!Cast_GPU_DT_INT32_DT_FLOAT_kernel*Ä2 8Ä@ÄHÄbmodel/bert/Casthu  »B
+K
+#Greater_GPU_DT_FLOAT_DT_BOOL_kernel*Ä28Ä@ÄHÄbGreaterhuZUÖB
+I
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbAdam/mulhuZUÖB
+O
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbmodel/bert/MulhuZUÖB
+I
+ Pow_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbAdam/PowhuZUÖB
+r
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄb/model/bert/embeddings/LayerNorm/batchnorm/Rsqrthu  »B
+ä
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbGmodel/bert/encoder/layer_._0/attention/output/LayerNorm/batchnorm/Rsqrthu  »B
+ä
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbGmodel/bert/encoder/layer_._1/attention/output/LayerNorm/batchnorm/Rsqrthu  »B
+ä
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbGmodel/bert/encoder/layer_._3/attention/output/LayerNorm/batchnorm/Rsqrthu  »B
+ä
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbGmodel/bert/encoder/layer_._4/attention/output/LayerNorm/batchnorm/Rsqrthu  »B
+ä
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbGmodel/bert/encoder/layer_._6/attention/output/LayerNorm/batchnorm/Rsqrthu  »B
+ä
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbGmodel/bert/encoder/layer_._8/attention/output/LayerNorm/batchnorm/Rsqrthu  »B
+Ä
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄb=model/bert/encoder/layer_._8/output/LayerNorm/batchnorm/Rsqrthu  »B
+^
+!Tanh_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbmodel/bert/pooler/dense/Tanhhu  »B
+á
+Q_Z19splitKreduce_kernelIffffEv18cublasSplitKParamsIT1_EPKT_PKT0_PS6_PKS1_SB_PKT2_ *Ä2Ä8Ä@ÄHÄXbmodel/dense/MatMulhu  »B
+î
+O_ZN10tensorflow7functor15ApplyAdamKernelIfEEviPT_S3_S3_PKS2_S5_S5_S5_S5_S5_S5_b *Ä28Ä@ÄHÄb$Adam/Adam/update_3/ResourceApplyAdamhuZUÖB
+¬
+ã_ZN10tensorflow7functor15RowReduceKernelIN3cub22TransformInputIteratorIfNS_65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739221SubtractAndExpFunctorIffEENS2_21CountingInputIteratorIixEExEEPfNS2_3SumEEEvT_T0_iiT1_NSt15iterator_traitsISC_E10value_typeE*Ä28Ä@ÄHÄbmodel/outputs/Softmaxhu  »B
+ú
+t_ZN10tensorflow7functor17BlockReduceKernelIPfS2_Li256ENS0_3SumIfEEEEvT_T0_iT2_NSt15iterator_traitsIS5_E10value_typeE0*Ä28Ä@ÄHÄbSum_2hu  »B
+ú
+t_ZN10tensorflow7functor17BlockReduceKernelIPfS2_Li256ENS0_3SumIfEEEEvT_T0_iT2_NSt15iterator_traitsIS5_E10value_typeE0*Ä28Ä@ÄHÄbSum_3hu  »B
+ú
+t_ZN10tensorflow7functor17BlockReduceKernelIPfS2_Li256ENS0_3SumIfEEEEvT_T0_iT2_NSt15iterator_traitsIS5_E10value_typeE0*Ä28Ä@ÄHÄbSum_4hu  »B
+¡
+t_ZN10tensorflow7functor17BlockReduceKernelIPfS2_Li256ENS0_3SumIfEEEEvT_T0_iT2_NSt15iterator_traitsIS5_E10value_typeE0*Ä28Ä@ÄHÄb*categorical_crossentropy/weighted_loss/Sumhu  »B
+–
+¢_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13div_no_nan_opIfLb0EEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä28Ä@ÄHÄbdiv_no_nan_1huZUÖB
+–
+¢_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13div_no_nan_opIfLb0EEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä28Ä@ÄHÄbdiv_no_nan_3huZUÖB
+ª
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKS8_KNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä28Ä@ÄHÄbAssignAddVariableOp_2huZUÖB
+»
+Ï_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi2ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_20scalar_difference_opIKfSB_EEKNS_20TensorBroadcastingOpIKNS_5arrayIxLy2EEEKNS4_INS5_ISB_Li2ELi1ExEELi16ES7_EEEEKNSD_IKNS_9IndexListINS_10type2indexILx1EEEJiEEEKS8_EEEEEENS_9GpuDeviceEEExEEvT_T0_&*Ä28Ä@ÄHÄb:categorical_crossentropy/softmax_cross_entropy_with_logitshuZUÖB
+û
+¬_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi2ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_20scalar_difference_opIffEEKNS9_INS0_18scalar_quotient_opIffEEKNS_18TensorCwiseUnaryOpINS0_13scalar_exp_opIfEEKS8_EEKNS_20TensorBroadcastingOpIKNS_9IndexListINS_10type2indexILx1EEEJiEEESH_EEEEKNSK_IKNS_5arrayIxLy2EEEKNS4_INS5_IKfLi2ELi1ExEELi16ES7_EEEEEEEENS_9GpuDeviceEEExEEvT_T0_.*Ä28Ä@ÄHÄb:categorical_crossentropy/softmax_cross_entropy_with_logitshuZUÖB
+∑
+ˆ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi3ELi1EiEELi16ENS_11MakePointerEEEKNS_15TensorSlicingOpIKNS_6DSizesIiLi3EEESC_KNS4_INS5_IKfLi3ELi1EiEELi16ES7_EEEEEENS_9GpuDeviceEEEiEEvT_T0_*Ä28Ä@ÄHÄbmodel/bert/pooler/strided_slicehuZUÖB
+√
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIxLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKxSB_EEKS8_KNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä28Ä@ÄHÄbAdam/Adam/AssignAddVariableOphuZUÖB
+ª
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIxLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKxSB_EEKS8_KNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä28Ä@ÄHÄbAssignAddVariableOp_8huZUÖB
+º
+‡_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorEvalToOpIKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIKfS6_EEKNS_20TensorBroadcastingOpIKNS_5arrayIxLy2EEEKNS_9TensorMapINS_6TensorIS6_Li2ELi1ExEELi16ENS_11MakePointerEEEEEKNS4_INS0_20scalar_difference_opIffEEKNS8_IKNS_9IndexListINS_10type2indexILx1EEEJiEEEKNS_18TensorForcedEvalOpIKNS_18TensorCwiseUnaryOpINS0_13scalar_log_opIfEEKNSC_INSD_IfLi2ELi1ExEELi16ESF_EEEEEEEESX_EEEESF_EENS_9GpuDeviceEEExEEvT_T0_(*Ä28Ä@ÄHÄb:categorical_crossentropy/softmax_cross_entropy_with_logitshuZUÖB
+
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28‡@‡H‡b<model/bert/encoder/layer_._10/output/LayerNorm/batchnorm/addhuZUÖB
+Ä
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28‡@‡H‡b=model/bert/encoder/layer_._0/output/LayerNorm/batchnorm/Rsqrthu  »B
+H
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä28¿@¿H¿bCast_10hu  »B
+Ä
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28†@†H†b=model/bert/encoder/layer_._1/output/LayerNorm/batchnorm/Rsqrthu  »B
+ã
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28†@†H†bHmodel/bert/encoder/layer_._10/attention/output/LayerNorm/batchnorm/Rsqrthu  »B
+K
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbAdam/addhuZUÖB
+F
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbaddhuZUÖB
+H
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbadd_1huZUÖB
+p
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄb-model/bert/embeddings/LayerNorm/batchnorm/addhuZUÖB
+~
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄb;model/bert/encoder/layer_._3/output/LayerNorm/batchnorm/addhuZUÖB
+~
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄb;model/bert/encoder/layer_._4/output/LayerNorm/batchnorm/addhuZUÖB
+à
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbEmodel/bert/encoder/layer_._6/attention/output/LayerNorm/batchnorm/addhuZUÖB
+~
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄb;model/bert/encoder/layer_._6/output/LayerNorm/batchnorm/addhuZUÖB
+à
+"AddV2_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbEmodel/bert/encoder/layer_._7/attention/output/LayerNorm/batchnorm/addhuZUÖB
+M
+"AddV2_GPU_DT_INT64_DT_INT64_kernel*Ä28Ä@ÄHÄb
+Adam/add_1huZUÖB
+G
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä28Ä@ÄHÄbCast_3hu  »B
+G
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä28Ä@ÄHÄbCast_9hu  »B
+G
+"Cast_GPU_DT_DOUBLE_DT_FLOAT_kernel*Ä28Ä@ÄHÄbCasthu  »B
+G
+ Cast_GPU_DT_FLOAT_DT_BOOL_kernel*Ä28Ä@ÄHÄbCast_8hu  »B
+M
+!Cast_GPU_DT_INT64_DT_FLOAT_kernel*Ä28Ä@ÄHÄbAdam/Cast_1hu  »B
+M
+ Div_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbAdam/truedivhuZUÖB
+G
+!Equal_GPU_DT_INT64_DT_BOOL_kernel*Ä28Ä@ÄHÄbEqualhuZUÖB
+l
+(GreaterEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä28Ä@ÄHÄb#assert_greater_equal_1/GreaterEqualhuZUÖB
+c
+%LessEqual_GPU_DT_FLOAT_DT_BOOL_kernel*Ä28Ä@ÄHÄbassert_less_equal_1/LessEqualhuZUÖB
+R
+%LogicalAnd_GPU_DT_BOOL_DT_BOOL_kernel*Ä28Ä@ÄHÄbLogicalAnd_1huZUÖB
+R
+%LogicalAnd_GPU_DT_BOOL_DT_BOOL_kernel*Ä28Ä@ÄHÄbLogicalAnd_3huZUÖB
+P
+%LogicalNot_GPU_DT_BOOL_DT_BOOL_kernel*Ä28Ä@ÄHÄb
+LogicalNothu  »B
+R
+%LogicalNot_GPU_DT_BOOL_DT_BOOL_kernel*Ä28Ä@ÄHÄbLogicalNot_1hu  »B
+ç
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbLgradient_tape/categorical_crossentropy/softmax_cross_entropy_with_logits/mulhuZUÖB
+D
+ Mul_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbMulhuZUÖB
+K
+ Pow_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄb
+Adam/Pow_1huZUÖB
+Å
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄb>model/bert/encoder/layer_._10/output/LayerNorm/batchnorm/Rsqrthu  »B
+ã
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbHmodel/bert/encoder/layer_._11/attention/output/LayerNorm/batchnorm/Rsqrthu  »B
+Å
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄb>model/bert/encoder/layer_._11/output/LayerNorm/batchnorm/Rsqrthu  »B
+ä
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbGmodel/bert/encoder/layer_._2/attention/output/LayerNorm/batchnorm/Rsqrthu  »B
+Ä
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄb=model/bert/encoder/layer_._2/output/LayerNorm/batchnorm/Rsqrthu  »B
+Ä
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄb=model/bert/encoder/layer_._3/output/LayerNorm/batchnorm/Rsqrthu  »B
+Ä
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄb=model/bert/encoder/layer_._4/output/LayerNorm/batchnorm/Rsqrthu  »B
+ä
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbGmodel/bert/encoder/layer_._5/attention/output/LayerNorm/batchnorm/Rsqrthu  »B
+Ä
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄb=model/bert/encoder/layer_._5/output/LayerNorm/batchnorm/Rsqrthu  »B
+Ä
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄb=model/bert/encoder/layer_._6/output/LayerNorm/batchnorm/Rsqrthu  »B
+ä
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbGmodel/bert/encoder/layer_._7/attention/output/LayerNorm/batchnorm/Rsqrthu  »B
+Ä
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄb=model/bert/encoder/layer_._7/output/LayerNorm/batchnorm/Rsqrthu  »B
+ä
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbGmodel/bert/encoder/layer_._9/attention/output/LayerNorm/batchnorm/Rsqrthu  »B
+Ä
+"Rsqrt_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄb=model/bert/encoder/layer_._9/output/LayerNorm/batchnorm/Rsqrthu  »B
+O
+ Sub_GPU_DT_FLOAT_DT_FLOAT_kernel*Ä28Ä@ÄHÄbmodel/bert/SubhuZUÖB
+à
+Q_Z19splitKreduce_kernelIffffEv18cublasSplitKParamsIT1_EPKT_PKT0_PS6_PKS1_SB_PKT2_ *Ä28Ä@ÄHÄXbmodel/outputs/MatMulhu  »B
+í
+Q_Z19splitKreduce_kernelIffffEv18cublasSplitKParamsIT1_EPKT_PKT0_PS6_PKS1_SB_PKT2_ *Ä2`8Ä@ÄHÄXbmodel/bert/pooler/dense/MatMulhu  »B
+g
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Ä@ÄHÄbmodel/outputs/BiasAddhuZUÖB
+q
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Ä@ÄHÄbmodel/bert/pooler/dense/BiasAddhuZUÖB
+e
+1_ZN10tensorflow14BiasNHWCKernelIfEEviPKT_S3_PS1_i*Ä28Ä@ÄHÄbmodel/dense/BiasAddhuZUÖB
+æ
+á_ZN10tensorflow65_GLOBAL__N__36_softmax_op_gpu_cu_compute_80_cpp1_ii_8dfdf23c_739222GenerateNormalizedProbIffLi4EEEvPKT_PKT0_S4_PS2_iib *Ä28Ä@ÄHÄbmodel/outputs/Softmaxhu  »B
+°
+k_ZN10tensorflow7functor15RowReduceKernelIPKfPfN3cub3MaxEEEvT_T0_iiT1_NSt15iterator_traitsIS7_E10value_typeE *Ä28Ä@ÄHÄbmodel/outputs/Softmaxhu  »B
+Æ
+q_ZN10tensorflow7functor17BlockReduceKernelIPbS2_Li256ENS0_3AndEEEvT_T0_iT2_NSt15iterator_traitsIS4_E10value_typeE *Ä28Ä@ÄHÄbassert_greater_equal_1/Allhu  »B
+´
+q_ZN10tensorflow7functor17BlockReduceKernelIPbS2_Li256ENS0_3AndEEEvT_T0_iT2_NSt15iterator_traitsIS4_E10value_typeE *Ä28Ä@ÄHÄbassert_less_equal_1/Allhu  »B
+ú
+t_ZN10tensorflow7functor17BlockReduceKernelIPfS2_Li256ENS0_3SumIfEEEEvT_T0_iT2_NSt15iterator_traitsIS5_E10value_typeE0*Ä28Ä@ÄHÄbSum_6hu  »B
+Ã
+z_ZN10tensorflow7functor30ColumnReduceMax16ColumnsKernelIPKfPfN3cub3SumEEEvT_T0_iiT1_NSt15iterator_traitsIS7_E10value_typeEÄ!* 28Ä@ÄHÄb/gradient_tape/model/outputs/BiasAdd/BiasAddGradhuMUB
+
+¢_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13div_no_nan_opIfLb0EEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä28Ä@ÄHÄb,categorical_crossentropy/weighted_loss/valuehuZUÖB
+Œ
+¢_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13div_no_nan_opIfLb0EEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä28Ä@ÄHÄb
+div_no_nanhuZUÖB
+–
+¢_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1EiEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13div_no_nan_opIfLb0EEEKNS4_INS5_IKfLi1ELi1EiEELi16ES7_EEKNS4_INS5_ISC_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä28Ä@ÄHÄbdiv_no_nan_2huZUÖB
+Ù
+¬_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_max_opIKfSB_Li1EEEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEKNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opISB_EESF_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä28Ä@ÄHÄbmodel/dense/ReluhuZUÖB
+π
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKS8_KNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä28Ä@ÄHÄbAssignAddVariableOphuZUÖB
+ª
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKS8_KNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä28Ä@ÄHÄbAssignAddVariableOp_1huZUÖB
+ª
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKS8_KNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä28Ä@ÄHÄbAssignAddVariableOp_3huZUÖB
+ª
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKS8_KNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä28Ä@ÄHÄbAssignAddVariableOp_4huZUÖB
+ª
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKS8_KNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä28Ä@ÄHÄbAssignAddVariableOp_5huZUÖB
+ª
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKS8_KNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä28Ä@ÄHÄbAssignAddVariableOp_6huZUÖB
+ª
+Ñ_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_13scalar_sum_opIKfSB_EEKS8_KNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä28Ä@ÄHÄbAssignAddVariableOp_7huZUÖB
+·
+ù_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIfLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_19TensorCwiseBinaryOpINS0_17scalar_product_opIKfSB_EEKNS4_INS5_ISB_Li1ELi1ExEELi16ES7_EEKNS_18TensorConversionOpIfKNS9_INS0_13scalar_cmp_opISB_SB_LNS0_14ComparisonNameE5EEESF_KNS_20TensorCwiseNullaryOpINS0_18scalar_constant_opISB_EESF_EEEEEEEEEENS_9GpuDeviceEEExEEvT_T0_*Ä28Ä@ÄHÄb"gradient_tape/model/dense/ReluGradhuZUÖB
+»
+†_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIxLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorTupleReducerOpINS0_18ArgMaxTupleReducerINS_5TupleIxfEEEEKNS_5arrayIxLy1EEEKNS4_INS5_IKfLi2ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_ *Ä28Ä@ÄHÄbArgMaxhuZUÖB
+ 
+†_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorAssignOpINS_9TensorMapINS_6TensorIxLi1ELi1ExEELi16ENS_11MakePointerEEEKNS_20TensorTupleReducerOpINS0_18ArgMaxTupleReducerINS_5TupleIxfEEEEKNS_5arrayIxLy1EEEKNS4_INS5_IKfLi2ELi1ExEELi16ES7_EEEEEENS_9GpuDeviceEEExEEvT_T0_ *Ä28Ä@ÄHÄbArgMax_1huZUÖB
+∏
+‹_ZN5Eigen8internal15EigenMetaKernelINS_15TensorEvaluatorIKNS_14TensorEvalToOpIKNS_18TensorCwiseUnaryOpINS0_13scalar_log_opIfEEKNS_9TensorMapINS_6TensorIfLi2ELi1ExEELi16ENS_11MakePointerEEEEESA_EENS_9GpuDeviceEEExEEvT_T0_*Ä28Ä@ÄHÄb:categorical_crossentropy/softmax_cross_entropy_with_logitshuZUÖB
+M
+!Cast_GPU_DT_INT64_DT_FLOAT_kernel*Ä28‡@‡H‡bAdam/Cast_3hu  »B
+H
+ Cast_GPU_DT_BOOL_DT_FLOAT_kernel*Ä28Ä@ÄHÄbCast_16hu  »B
