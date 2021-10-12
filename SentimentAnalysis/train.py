@@ -61,9 +61,10 @@ def main():
         bert = BertSentiment('bert-base-cased')
     
         checkpoint_filepath = save_dir + get_model_name(fold_var)
-
-        #Load weights from saved model run earlier for each time
-        bert.model.load_weights(save_dir + get_model_name(10))
+        
+        if os.path.exists(save_dir + get_model_name(10)):
+            #Load weights from saved model run earlier for each time
+            bert.model.load_weights(save_dir + get_model_name(10))
         
         
         model_checkpoint_callback = tf.keras.callbacks.ModelCheckpoint(filepath=checkpoint_filepath,
